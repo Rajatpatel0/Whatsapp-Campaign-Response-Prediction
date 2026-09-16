@@ -1,0 +1,271 @@
+{
+  "metrics": {
+    "delivered": {
+      "label": "Message Delivery Prediction",
+      "n_train": 534,
+      "n_test": 178,
+      "positive_rate": 0.942,
+      "accuracy": 0.921,
+      "precision": 0.943,
+      "recall": 0.976,
+      "f1_score": 0.959,
+      "roc_auc": 0.396
+    },
+    "read": {
+      "label": "Message Read Prediction",
+      "n_train": 503,
+      "n_test": 168,
+      "positive_rate": 0.641,
+      "accuracy": 0.625,
+      "precision": 0.714,
+      "recall": 0.694,
+      "f1_score": 0.704,
+      "roc_auc": 0.644
+    },
+    "responded": {
+      "label": "Response Probability",
+      "n_train": 322,
+      "n_test": 108,
+      "positive_rate": 0.46,
+      "accuracy": 0.583,
+      "precision": 0.553,
+      "recall": 0.52,
+      "f1_score": 0.536,
+      "roc_auc": 0.607
+    },
+    "converted": {
+      "label": "Conversion Probability",
+      "n_train": 148,
+      "n_test": 50,
+      "positive_rate": 0.47,
+      "accuracy": 0.54,
+      "precision": 0.5,
+      "recall": 0.435,
+      "f1_score": 0.465,
+      "roc_auc": 0.549
+    },
+    "opted_out": {
+      "label": "Opt-Out Risk",
+      "n_train": 503,
+      "n_test": 168,
+      "positive_rate": 0.052,
+      "accuracy": 0.946,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "roc_auc": 0.544
+    }
+  },
+  "feature_importance": {
+    "delivered": [
+      {
+        "feature": "tenure_days",
+        "importance": 0.1485
+      },
+      {
+        "feature": "send_hour",
+        "importance": 0.1142
+      },
+      {
+        "feature": "month",
+        "importance": 0.0901
+      },
+      {
+        "feature": "age_group_18-24",
+        "importance": 0.042
+      },
+      {
+        "feature": "day_of_week_Saturday",
+        "importance": 0.04
+      },
+      {
+        "feature": "message_type_Festive Offer",
+        "importance": 0.0336
+      },
+      {
+        "feature": "day_of_week_Tuesday",
+        "importance": 0.0311
+      },
+      {
+        "feature": "tenure_band_Established (90-365d)",
+        "importance": 0.0281
+      },
+      {
+        "feature": "day_of_week_Friday",
+        "importance": 0.0281
+      },
+      {
+        "feature": "signup_channel_Referral",
+        "importance": 0.0268
+      }
+    ],
+    "read": [
+      {
+        "feature": "tenure_days",
+        "importance": 0.1693
+      },
+      {
+        "feature": "send_hour",
+        "importance": 0.108
+      },
+      {
+        "feature": "month",
+        "importance": 0.0772
+      },
+      {
+        "feature": "age_group_25-34",
+        "importance": 0.0453
+      },
+      {
+        "feature": "tenure_band_Established (90-365d)",
+        "importance": 0.045
+      },
+      {
+        "feature": "tenure_band_Loyal (>365d)",
+        "importance": 0.0364
+      },
+      {
+        "feature": "message_type_Promotional",
+        "importance": 0.0319
+      },
+      {
+        "feature": "signup_channel_Website Signup",
+        "importance": 0.0293
+      },
+      {
+        "feature": "city_tier_Tier 2",
+        "importance": 0.0285
+      },
+      {
+        "feature": "age_group_18-24",
+        "importance": 0.0284
+      }
+    ],
+    "responded": [
+      {
+        "feature": "tenure_days",
+        "importance": 0.1696
+      },
+      {
+        "feature": "send_hour",
+        "importance": 0.1019
+      },
+      {
+        "feature": "month",
+        "importance": 0.083
+      },
+      {
+        "feature": "message_type_Promotional",
+        "importance": 0.0635
+      },
+      {
+        "feature": "age_group_18-24",
+        "importance": 0.0469
+      },
+      {
+        "feature": "tenure_band_Established (90-365d)",
+        "importance": 0.038
+      },
+      {
+        "feature": "tenure_band_Loyal (>365d)",
+        "importance": 0.0342
+      },
+      {
+        "feature": "signup_channel_Website Signup",
+        "importance": 0.0339
+      },
+      {
+        "feature": "age_group_25-34",
+        "importance": 0.032
+      },
+      {
+        "feature": "city_tier_Tier 1",
+        "importance": 0.0296
+      }
+    ],
+    "converted": [
+      {
+        "feature": "tenure_days",
+        "importance": 0.1367
+      },
+      {
+        "feature": "send_hour",
+        "importance": 0.1025
+      },
+      {
+        "feature": "message_type_Reminder",
+        "importance": 0.0936
+      },
+      {
+        "feature": "month",
+        "importance": 0.0637
+      },
+      {
+        "feature": "age_group_25-34",
+        "importance": 0.0541
+      },
+      {
+        "feature": "message_type_Transactional",
+        "importance": 0.0436
+      },
+      {
+        "feature": "city_tier_Tier 1",
+        "importance": 0.0299
+      },
+      {
+        "feature": "day_of_week_Sunday",
+        "importance": 0.0295
+      },
+      {
+        "feature": "message_type_Festive Offer",
+        "importance": 0.0286
+      },
+      {
+        "feature": "age_group_18-24",
+        "importance": 0.0281
+      }
+    ],
+    "opted_out": [
+      {
+        "feature": "tenure_days",
+        "importance": 0.1553
+      },
+      {
+        "feature": "send_hour",
+        "importance": 0.1405
+      },
+      {
+        "feature": "month",
+        "importance": 0.0856
+      },
+      {
+        "feature": "message_type_Promotional",
+        "importance": 0.0478
+      },
+      {
+        "feature": "day_of_week_Saturday",
+        "importance": 0.0352
+      },
+      {
+        "feature": "day_of_week_Thursday",
+        "importance": 0.0339
+      },
+      {
+        "feature": "day_of_week_Sunday",
+        "importance": 0.031
+      },
+      {
+        "feature": "age_group_35-44",
+        "importance": 0.0264
+      },
+      {
+        "feature": "city_tier_Tier 1",
+        "importance": 0.0247
+      },
+      {
+        "feature": "message_type_Transactional",
+        "importance": 0.0236
+      }
+    ]
+  }
+}

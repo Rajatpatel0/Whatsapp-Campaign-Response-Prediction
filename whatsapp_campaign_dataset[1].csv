@@ -1,0 +1,713 @@
+message_id,contact_id,send_date,send_hour,day_of_week,message_type,city_tier,age_group,device_type,signup_channel,tenure_days,delivered,read,responded,converted,opted_out,time_to_read_min,time_to_response_hr
+MSG000001,CUST00001,2025-03-20,18,Thursday,Promotional,Tier 2,45-54,Android,In-Store,20,1,0,0,0,0,,
+MSG000002,CUST00001,2025-07-07,12,Monday,Festive Offer,Tier 2,45-54,Android,In-Store,20,1,1,1,0,0,14.1,8.03
+MSG000003,CUST00001,2025-07-22,13,Tuesday,Promotional,Tier 2,45-54,Android,In-Store,20,1,1,1,1,0,8.9,2.85
+MSG000004,CUST00001,2025-07-25,10,Friday,Festive Offer,Tier 2,45-54,Android,In-Store,20,1,1,1,1,0,137.8,0.08
+MSG000005,CUST00001,2025-08-06,5,Wednesday,Reminder,Tier 2,45-54,Android,In-Store,20,1,1,0,0,0,131.0,
+MSG000006,CUST00001,2025-08-07,8,Thursday,Feedback Request,Tier 2,45-54,Android,In-Store,20,1,1,1,0,0,49.9,1.16
+MSG000007,CUST00001,2025-08-14,11,Thursday,Reminder,Tier 2,45-54,Android,In-Store,20,1,0,0,0,0,,
+MSG000008,CUST00002,2025-03-21,19,Friday,Festive Offer,Tier 1,35-44,iOS,Website Signup,278,1,0,0,0,0,,
+MSG000009,CUST00002,2025-04-24,8,Thursday,Promotional,Tier 1,35-44,iOS,Website Signup,278,1,1,0,0,0,31.4,
+MSG000010,CUST00002,2025-05-08,9,Thursday,Festive Offer,Tier 1,35-44,iOS,Website Signup,278,1,1,0,0,0,35.1,
+MSG000011,CUST00002,2025-05-14,12,Wednesday,Festive Offer,Tier 1,35-44,iOS,Website Signup,278,1,1,1,0,0,89.8,0.52
+MSG000012,CUST00002,2025-07-14,14,Monday,Feedback Request,Tier 1,35-44,iOS,Website Signup,278,1,1,1,1,0,7.8,41.14
+MSG000013,CUST00002,2025-07-15,14,Tuesday,Transactional,Tier 1,35-44,iOS,Website Signup,278,1,0,0,0,0,,
+MSG000014,CUST00002,2025-08-01,6,Friday,Festive Offer,Tier 1,35-44,iOS,Website Signup,278,1,1,1,0,0,11.9,54.83
+MSG000015,CUST00002,2025-08-04,19,Monday,Festive Offer,Tier 1,35-44,iOS,Website Signup,278,1,1,0,0,0,1.0,
+MSG000016,CUST00003,2025-03-12,15,Wednesday,Transactional,Tier 3,18-24,Android,Referral,468,1,1,0,0,0,50.1,
+MSG000017,CUST00003,2025-03-24,6,Monday,Feedback Request,Tier 3,18-24,Android,Referral,468,1,0,0,0,0,,
+MSG000018,CUST00003,2025-03-29,14,Saturday,Transactional,Tier 3,18-24,Android,Referral,468,1,1,1,1,0,53.3,23.41
+MSG000019,CUST00003,2025-05-13,13,Tuesday,Festive Offer,Tier 3,18-24,Android,Referral,468,1,0,0,0,0,,
+MSG000020,CUST00003,2025-05-19,15,Monday,Transactional,Tier 3,18-24,Android,Referral,468,1,0,0,0,0,,
+MSG000021,CUST00003,2025-05-24,14,Saturday,Reminder,Tier 3,18-24,Android,Referral,468,1,0,0,0,0,,
+MSG000022,CUST00003,2025-06-25,8,Wednesday,Promotional,Tier 3,18-24,Android,Referral,468,1,1,0,0,0,97.5,
+MSG000023,CUST00003,2025-07-23,15,Wednesday,Promotional,Tier 3,18-24,Android,Referral,468,0,0,0,0,0,,
+MSG000024,CUST00003,2025-07-25,13,Friday,Reminder,Tier 3,18-24,Android,Referral,468,1,0,0,0,0,,
+MSG000025,CUST00003,2025-08-09,14,Saturday,Reminder,Tier 3,18-24,Android,Referral,468,1,1,0,0,0,172.9,
+MSG000026,CUST00004,2025-04-29,9,Tuesday,Promotional,Tier 2,55+,Android,Referral,827,1,0,0,0,0,,
+MSG000027,CUST00004,2025-05-21,12,Wednesday,Festive Offer,Tier 2,55+,Android,Referral,827,1,1,1,1,0,13.2,5.73
+MSG000028,CUST00004,2025-05-30,18,Friday,Transactional,Tier 2,55+,Android,Referral,827,1,1,1,0,0,1.0,15.52
+MSG000029,CUST00004,2025-06-09,8,Monday,Festive Offer,Tier 2,55+,Android,Referral,827,0,0,0,0,0,,
+MSG000030,CUST00004,2025-07-08,13,Tuesday,Promotional,Tier 2,55+,Android,Referral,827,1,0,0,0,0,,
+MSG000031,CUST00004,2025-08-05,12,Tuesday,Promotional,Tier 2,55+,Android,Referral,827,1,0,0,0,0,,
+MSG000032,CUST00005,2025-03-21,16,Friday,Reminder,Tier 1,35-44,Android,Social Ads,667,0,0,0,0,0,,
+MSG000033,CUST00005,2025-03-29,12,Saturday,Feedback Request,Tier 1,35-44,Android,Social Ads,667,1,0,0,0,0,,
+MSG000034,CUST00005,2025-04-02,15,Wednesday,Transactional,Tier 1,35-44,Android,Social Ads,667,1,1,0,0,0,41.0,
+MSG000035,CUST00005,2025-05-17,16,Saturday,Transactional,Tier 1,35-44,Android,Social Ads,667,1,1,1,1,0,210.1,50.14
+MSG000036,CUST00005,2025-05-23,9,Friday,Reminder,Tier 1,35-44,Android,Social Ads,667,1,1,1,0,0,170.4,15.15
+MSG000037,CUST00005,2025-06-02,4,Monday,Promotional,Tier 1,35-44,Android,Social Ads,667,1,0,0,0,0,,
+MSG000038,CUST00005,2025-06-14,18,Saturday,Transactional,Tier 1,35-44,Android,Social Ads,667,1,1,1,1,0,141.6,37.3
+MSG000039,CUST00005,2025-07-09,15,Wednesday,Festive Offer,Tier 1,35-44,Android,Social Ads,667,1,1,1,0,0,35.6,16.75
+MSG000040,CUST00005,2025-08-01,13,Friday,Transactional,Tier 1,35-44,Android,Social Ads,667,1,1,0,0,0,16.7,
+MSG000041,CUST00006,2025-03-02,11,Sunday,Festive Offer,Tier 3,35-44,Android,Referral,705,1,1,1,0,0,19.1,9.11
+MSG000042,CUST00006,2025-04-16,14,Wednesday,Transactional,Tier 3,35-44,Android,Referral,705,1,1,1,1,0,331.8,0.07
+MSG000043,CUST00006,2025-05-10,15,Saturday,Reminder,Tier 3,35-44,Android,Referral,705,1,1,1,0,0,331.2,1.97
+MSG000044,CUST00006,2025-06-10,18,Tuesday,Reminder,Tier 3,35-44,Android,Referral,705,1,1,1,1,0,17.3,18.75
+MSG000045,CUST00006,2025-06-13,22,Friday,Promotional,Tier 3,35-44,Android,Referral,705,1,1,0,0,0,408.1,
+MSG000046,CUST00006,2025-07-14,5,Monday,Promotional,Tier 3,35-44,Android,Referral,705,1,0,0,0,0,,
+MSG000047,CUST00006,2025-07-16,14,Wednesday,Festive Offer,Tier 3,35-44,Android,Referral,705,1,1,0,0,0,91.8,
+MSG000048,CUST00006,2025-07-31,10,Thursday,Festive Offer,Tier 3,35-44,Android,Referral,705,1,1,1,0,0,156.2,20.83
+MSG000049,CUST00007,2025-03-06,10,Thursday,Transactional,Tier 2,25-34,Android,Website Signup,494,1,0,0,0,0,,
+MSG000050,CUST00007,2025-03-20,6,Thursday,Transactional,Tier 2,25-34,Android,Website Signup,494,1,1,1,1,0,123.7,12.85
+MSG000051,CUST00007,2025-04-05,11,Saturday,Promotional,Tier 2,25-34,Android,Website Signup,494,1,1,0,0,0,139.1,
+MSG000052,CUST00007,2025-04-09,15,Wednesday,Festive Offer,Tier 2,25-34,Android,Website Signup,494,1,1,1,1,0,127.8,1.77
+MSG000053,CUST00007,2025-04-29,14,Tuesday,Reminder,Tier 2,25-34,Android,Website Signup,494,1,0,0,0,0,,
+MSG000054,CUST00007,2025-06-17,13,Tuesday,Transactional,Tier 2,25-34,Android,Website Signup,494,1,0,0,0,0,,
+MSG000055,CUST00007,2025-07-25,13,Friday,Reminder,Tier 2,25-34,Android,Website Signup,494,1,1,0,0,0,34.8,
+MSG000056,CUST00007,2025-08-07,8,Thursday,Festive Offer,Tier 2,25-34,Android,Website Signup,494,1,1,0,0,0,50.9,
+MSG000057,CUST00007,2025-08-28,3,Thursday,Reminder,Tier 2,25-34,Android,Website Signup,494,1,1,1,0,0,37.2,9.85
+MSG000058,CUST00008,2025-03-05,10,Wednesday,Promotional,Tier 2,18-24,Android,Referral,108,1,1,0,0,0,15.5,
+MSG000059,CUST00008,2025-03-13,15,Thursday,Promotional,Tier 2,18-24,Android,Referral,108,1,0,0,0,0,,
+MSG000060,CUST00008,2025-04-25,20,Friday,Festive Offer,Tier 2,18-24,Android,Referral,108,1,0,0,0,0,,
+MSG000061,CUST00008,2025-05-19,14,Monday,Transactional,Tier 2,18-24,Android,Referral,108,1,0,0,0,0,,
+MSG000062,CUST00008,2025-05-25,10,Sunday,Promotional,Tier 2,18-24,Android,Referral,108,1,1,0,0,0,266.4,
+MSG000063,CUST00008,2025-06-02,20,Monday,Promotional,Tier 2,18-24,Android,Referral,108,1,0,0,0,0,,
+MSG000064,CUST00008,2025-06-04,11,Wednesday,Transactional,Tier 2,18-24,Android,Referral,108,0,0,0,0,0,,
+MSG000065,CUST00008,2025-07-13,11,Sunday,Promotional,Tier 2,18-24,Android,Referral,108,0,0,0,0,0,,
+MSG000066,CUST00008,2025-08-08,17,Friday,Promotional,Tier 2,18-24,Android,Referral,108,1,0,0,0,0,,
+MSG000067,CUST00008,2025-08-20,12,Wednesday,Feedback Request,Tier 2,18-24,Android,Referral,108,1,1,0,0,0,164.9,
+MSG000068,CUST00009,2025-04-05,8,Saturday,Promotional,Tier 1,18-24,Android,Website Signup,357,1,0,0,0,0,,
+MSG000069,CUST00009,2025-04-21,14,Monday,Promotional,Tier 1,18-24,Android,Website Signup,357,0,0,0,0,0,,
+MSG000070,CUST00009,2025-05-06,12,Tuesday,Promotional,Tier 1,18-24,Android,Website Signup,357,0,0,0,0,0,,
+MSG000071,CUST00009,2025-05-11,11,Sunday,Promotional,Tier 1,18-24,Android,Website Signup,357,1,1,0,0,0,90.0,
+MSG000072,CUST00009,2025-05-23,15,Friday,Reminder,Tier 1,18-24,Android,Website Signup,357,1,0,0,0,0,,
+MSG000073,CUST00009,2025-05-24,9,Saturday,Promotional,Tier 1,18-24,Android,Website Signup,357,1,0,0,0,0,,
+MSG000074,CUST00009,2025-05-28,12,Wednesday,Festive Offer,Tier 1,18-24,Android,Website Signup,357,1,0,0,0,0,,
+MSG000075,CUST00009,2025-07-19,16,Saturday,Transactional,Tier 1,18-24,Android,Website Signup,357,1,0,0,0,0,,
+MSG000076,CUST00009,2025-08-06,6,Wednesday,Promotional,Tier 1,18-24,Android,Website Signup,357,1,0,0,0,0,,
+MSG000077,CUST00010,2025-03-19,7,Wednesday,Promotional,Tier 2,45-54,Android,Website Signup,897,1,1,1,1,0,99.3,29.12
+MSG000078,CUST00010,2025-05-17,12,Saturday,Festive Offer,Tier 2,45-54,Android,Website Signup,897,1,1,1,1,0,86.6,7.99
+MSG000079,CUST00010,2025-05-27,9,Tuesday,Feedback Request,Tier 2,45-54,Android,Website Signup,897,1,1,1,0,0,83.8,1.24
+MSG000080,CUST00010,2025-05-29,12,Thursday,Promotional,Tier 2,45-54,Android,Website Signup,897,0,0,0,0,0,,
+MSG000081,CUST00010,2025-06-03,21,Tuesday,Promotional,Tier 2,45-54,Android,Website Signup,897,1,1,1,0,0,4.6,2.71
+MSG000082,CUST00010,2025-08-17,16,Sunday,Promotional,Tier 2,45-54,Android,Website Signup,897,1,1,1,0,0,21.4,8.79
+MSG000083,CUST00011,2025-03-21,10,Friday,Transactional,Tier 1,25-34,Android,Referral,49,1,1,1,0,0,27.8,10.47
+MSG000084,CUST00011,2025-04-14,13,Monday,Promotional,Tier 1,25-34,Android,Referral,49,1,1,0,0,0,36.4,
+MSG000085,CUST00011,2025-05-28,11,Wednesday,Transactional,Tier 1,25-34,Android,Referral,49,0,0,0,0,0,,
+MSG000086,CUST00011,2025-06-16,12,Monday,Reminder,Tier 1,25-34,Android,Referral,49,1,1,1,0,0,15.8,52.39
+MSG000087,CUST00011,2025-07-16,16,Wednesday,Reminder,Tier 1,25-34,Android,Referral,49,1,1,0,0,0,158.7,
+MSG000088,CUST00011,2025-07-22,11,Tuesday,Festive Offer,Tier 1,25-34,Android,Referral,49,1,1,0,0,0,114.5,
+MSG000089,CUST00011,2025-07-28,15,Monday,Reminder,Tier 1,25-34,Android,Referral,49,1,1,1,0,0,366.7,12.21
+MSG000090,CUST00012,2025-03-26,9,Wednesday,Festive Offer,Tier 3,18-24,Android,Referral,792,0,0,0,0,0,,
+MSG000091,CUST00012,2025-04-02,15,Wednesday,Promotional,Tier 3,18-24,Android,Referral,792,1,0,0,0,0,,
+MSG000092,CUST00012,2025-04-11,7,Friday,Transactional,Tier 3,18-24,Android,Referral,792,1,1,1,0,0,64.2,8.06
+MSG000093,CUST00012,2025-04-18,6,Friday,Transactional,Tier 3,18-24,Android,Referral,792,1,1,1,0,0,44.0,14.51
+MSG000094,CUST00012,2025-04-25,14,Friday,Feedback Request,Tier 3,18-24,Android,Referral,792,1,1,0,0,0,74.6,
+MSG000095,CUST00012,2025-07-20,7,Sunday,Transactional,Tier 3,18-24,Android,Referral,792,1,1,0,0,0,155.4,
+MSG000096,CUST00012,2025-07-28,11,Monday,Promotional,Tier 3,18-24,Android,Referral,792,1,0,0,0,0,,
+MSG000097,CUST00012,2025-08-16,5,Saturday,Promotional,Tier 3,18-24,Android,Referral,792,1,1,0,0,0,76.9,
+MSG000098,CUST00012,2025-08-17,17,Sunday,Feedback Request,Tier 3,18-24,Android,Referral,792,1,1,1,0,0,179.3,9.46
+MSG000099,CUST00012,2025-08-28,17,Thursday,Festive Offer,Tier 3,18-24,Android,Referral,792,1,0,0,0,0,,
+MSG000100,CUST00013,2025-03-09,13,Sunday,Promotional,Tier 2,25-34,Android,Website Signup,619,1,1,0,0,0,244.0,
+MSG000101,CUST00013,2025-03-30,11,Sunday,Festive Offer,Tier 2,25-34,Android,Website Signup,619,1,1,0,0,0,328.1,
+MSG000102,CUST00013,2025-04-22,12,Tuesday,Transactional,Tier 2,25-34,Android,Website Signup,619,1,1,0,0,0,3.0,
+MSG000103,CUST00013,2025-05-17,12,Saturday,Festive Offer,Tier 2,25-34,Android,Website Signup,619,1,1,1,1,0,173.3,1.25
+MSG000104,CUST00013,2025-06-23,6,Monday,Promotional,Tier 2,25-34,Android,Website Signup,619,1,1,1,1,0,6.8,8.53
+MSG000105,CUST00013,2025-07-16,10,Wednesday,Feedback Request,Tier 2,25-34,Android,Website Signup,619,1,1,1,0,0,56.4,1.61
+MSG000106,CUST00013,2025-07-16,13,Wednesday,Promotional,Tier 2,25-34,Android,Website Signup,619,1,1,1,1,0,102.2,4.46
+MSG000107,CUST00013,2025-07-29,12,Tuesday,Promotional,Tier 2,25-34,Android,Website Signup,619,1,1,0,0,0,16.2,
+MSG000108,CUST00013,2025-08-29,10,Friday,Feedback Request,Tier 2,25-34,Android,Website Signup,619,1,1,1,1,0,14.8,14.88
+MSG000109,CUST00014,2025-06-06,13,Friday,Festive Offer,Tier 3,25-34,iOS,Website Signup,262,1,1,1,1,0,395.3,6.46
+MSG000110,CUST00014,2025-06-15,13,Sunday,Festive Offer,Tier 3,25-34,iOS,Website Signup,262,1,0,0,0,0,,
+MSG000111,CUST00014,2025-07-14,9,Monday,Reminder,Tier 3,25-34,iOS,Website Signup,262,1,1,0,0,0,23.9,
+MSG000112,CUST00014,2025-07-31,10,Thursday,Promotional,Tier 3,25-34,iOS,Website Signup,262,1,0,0,0,0,,
+MSG000113,CUST00015,2025-03-25,10,Tuesday,Reminder,Tier 1,18-24,Android,Website Signup,702,1,1,1,0,0,34.2,14.61
+MSG000114,CUST00015,2025-04-30,11,Wednesday,Festive Offer,Tier 1,18-24,Android,Website Signup,702,1,1,0,0,0,149.3,
+MSG000115,CUST00015,2025-06-23,8,Monday,Reminder,Tier 1,18-24,Android,Website Signup,702,1,1,0,0,0,37.2,
+MSG000116,CUST00015,2025-08-18,17,Monday,Transactional,Tier 1,18-24,Android,Website Signup,702,1,1,1,0,0,6.9,9.91
+MSG000117,CUST00016,2025-03-06,14,Thursday,Reminder,Tier 1,45-54,Android,Website Signup,754,1,0,0,0,0,,
+MSG000118,CUST00016,2025-03-20,12,Thursday,Feedback Request,Tier 1,45-54,Android,Website Signup,754,1,0,0,0,0,,
+MSG000119,CUST00016,2025-03-29,12,Saturday,Promotional,Tier 1,45-54,Android,Website Signup,754,1,0,0,0,0,,
+MSG000120,CUST00016,2025-04-09,11,Wednesday,Reminder,Tier 1,45-54,Android,Website Signup,754,0,0,0,0,0,,
+MSG000121,CUST00016,2025-06-13,15,Friday,Promotional,Tier 1,45-54,Android,Website Signup,754,1,1,0,0,0,240.0,
+MSG000122,CUST00016,2025-07-09,13,Wednesday,Festive Offer,Tier 1,45-54,Android,Website Signup,754,1,1,0,0,0,46.1,
+MSG000123,CUST00016,2025-08-21,9,Thursday,Festive Offer,Tier 1,45-54,Android,Website Signup,754,1,1,1,0,0,160.0,4.52
+MSG000124,CUST00016,2025-08-25,15,Monday,Promotional,Tier 1,45-54,Android,Website Signup,754,1,1,1,1,0,14.6,15.84
+MSG000125,CUST00016,2025-08-27,7,Wednesday,Promotional,Tier 1,45-54,Android,Website Signup,754,1,1,0,0,1,33.5,
+MSG000126,CUST00017,2025-04-02,13,Wednesday,Reminder,Tier 2,35-44,Android,Website Signup,48,1,0,0,0,0,,
+MSG000127,CUST00017,2025-06-09,5,Monday,Feedback Request,Tier 2,35-44,Android,Website Signup,48,1,1,1,0,1,107.4,2.27
+MSG000128,CUST00017,2025-06-18,14,Wednesday,Transactional,Tier 2,35-44,Android,Website Signup,48,1,0,0,0,0,,
+MSG000129,CUST00017,2025-08-14,9,Thursday,Promotional,Tier 2,35-44,Android,Website Signup,48,1,1,0,0,0,75.0,
+MSG000130,CUST00018,2025-03-26,17,Wednesday,Feedback Request,Tier 1,35-44,Android,In-Store,104,1,0,0,0,0,,
+MSG000131,CUST00018,2025-04-02,13,Wednesday,Promotional,Tier 1,35-44,Android,In-Store,104,1,0,0,0,0,,
+MSG000132,CUST00018,2025-07-30,1,Wednesday,Promotional,Tier 1,35-44,Android,In-Store,104,1,0,0,0,0,,
+MSG000133,CUST00019,2025-03-14,12,Friday,Transactional,Tier 3,25-34,iOS,Website Signup,602,0,0,0,0,0,,
+MSG000134,CUST00019,2025-03-29,16,Saturday,Festive Offer,Tier 3,25-34,iOS,Website Signup,602,1,1,0,0,0,152.1,
+MSG000135,CUST00019,2025-04-03,12,Thursday,Festive Offer,Tier 3,25-34,iOS,Website Signup,602,1,0,0,0,0,,
+MSG000136,CUST00019,2025-06-30,8,Monday,Promotional,Tier 3,25-34,iOS,Website Signup,602,1,1,1,0,0,113.1,5.86
+MSG000137,CUST00019,2025-07-08,5,Tuesday,Promotional,Tier 3,25-34,iOS,Website Signup,602,1,0,0,0,0,,
+MSG000138,CUST00019,2025-07-09,11,Wednesday,Feedback Request,Tier 3,25-34,iOS,Website Signup,602,1,1,1,1,0,13.3,9.69
+MSG000139,CUST00019,2025-07-13,11,Sunday,Promotional,Tier 3,25-34,iOS,Website Signup,602,1,1,0,0,0,30.2,
+MSG000140,CUST00019,2025-07-15,5,Tuesday,Reminder,Tier 3,25-34,iOS,Website Signup,602,1,1,0,0,0,10.8,
+MSG000141,CUST00020,2025-03-05,14,Wednesday,Promotional,Tier 2,25-34,Android,Social Ads,899,1,1,1,0,0,115.2,2.46
+MSG000142,CUST00020,2025-03-27,11,Thursday,Feedback Request,Tier 2,25-34,Android,Social Ads,899,1,1,0,0,1,46.7,
+MSG000143,CUST00020,2025-04-07,17,Monday,Transactional,Tier 2,25-34,Android,Social Ads,899,1,0,0,0,0,,
+MSG000144,CUST00020,2025-05-03,13,Saturday,Promotional,Tier 2,25-34,Android,Social Ads,899,1,1,0,0,0,144.5,
+MSG000145,CUST00020,2025-06-03,12,Tuesday,Promotional,Tier 2,25-34,Android,Social Ads,899,1,1,1,0,0,125.2,39.33
+MSG000146,CUST00020,2025-06-06,11,Friday,Promotional,Tier 2,25-34,Android,Social Ads,899,1,0,0,0,0,,
+MSG000147,CUST00020,2025-06-18,14,Wednesday,Reminder,Tier 2,25-34,Android,Social Ads,899,1,0,0,0,0,,
+MSG000148,CUST00020,2025-06-25,9,Wednesday,Transactional,Tier 2,25-34,Android,Social Ads,899,1,0,0,0,0,,
+MSG000149,CUST00020,2025-07-18,8,Friday,Promotional,Tier 2,25-34,Android,Social Ads,899,1,0,0,0,0,,
+MSG000150,CUST00020,2025-08-03,11,Sunday,Festive Offer,Tier 2,25-34,Android,Social Ads,899,1,0,0,0,0,,
+MSG000151,CUST00020,2025-08-05,14,Tuesday,Promotional,Tier 2,25-34,Android,Social Ads,899,1,1,1,1,1,154.2,3.95
+MSG000152,CUST00021,2025-03-20,7,Thursday,Promotional,Tier 2,25-34,Android,Social Ads,31,1,1,1,1,0,62.0,0.27
+MSG000153,CUST00021,2025-04-14,16,Monday,Feedback Request,Tier 2,25-34,Android,Social Ads,31,1,1,0,0,0,348.1,
+MSG000154,CUST00021,2025-04-20,16,Sunday,Festive Offer,Tier 2,25-34,Android,Social Ads,31,1,1,1,0,1,298.4,3.45
+MSG000155,CUST00021,2025-05-01,10,Thursday,Festive Offer,Tier 2,25-34,Android,Social Ads,31,1,1,0,0,1,62.7,
+MSG000156,CUST00021,2025-07-18,13,Friday,Transactional,Tier 2,25-34,Android,Social Ads,31,1,0,0,0,0,,
+MSG000157,CUST00021,2025-07-30,16,Wednesday,Festive Offer,Tier 2,25-34,Android,Social Ads,31,1,1,0,0,0,34.7,
+MSG000158,CUST00021,2025-08-21,10,Thursday,Transactional,Tier 2,25-34,Android,Social Ads,31,1,1,0,0,0,73.6,
+MSG000159,CUST00022,2025-03-31,16,Monday,Reminder,Tier 1,25-34,Android,Referral,602,1,1,1,0,0,28.5,3.72
+MSG000160,CUST00022,2025-06-15,16,Sunday,Reminder,Tier 1,25-34,Android,Referral,602,1,1,1,0,0,66.1,34.53
+MSG000161,CUST00022,2025-08-02,9,Saturday,Promotional,Tier 1,25-34,Android,Referral,602,1,1,0,0,0,11.3,
+MSG000162,CUST00023,2025-04-17,17,Thursday,Feedback Request,Tier 3,18-24,Android,Website Signup,131,1,0,0,0,0,,
+MSG000163,CUST00023,2025-04-27,8,Sunday,Transactional,Tier 3,18-24,Android,Website Signup,131,1,0,0,0,0,,
+MSG000164,CUST00023,2025-05-28,15,Wednesday,Festive Offer,Tier 3,18-24,Android,Website Signup,131,1,1,1,0,0,104.8,35.37
+MSG000165,CUST00023,2025-08-08,11,Friday,Promotional,Tier 3,18-24,Android,Website Signup,131,1,1,1,0,0,28.3,6.86
+MSG000166,CUST00024,2025-04-14,13,Monday,Festive Offer,Tier 3,25-34,iOS,Referral,588,0,0,0,0,0,,
+MSG000167,CUST00024,2025-04-18,11,Friday,Reminder,Tier 3,25-34,iOS,Referral,588,1,1,0,0,0,50.5,
+MSG000168,CUST00024,2025-04-26,9,Saturday,Promotional,Tier 3,25-34,iOS,Referral,588,1,1,0,0,0,183.3,
+MSG000169,CUST00024,2025-04-30,13,Wednesday,Reminder,Tier 3,25-34,iOS,Referral,588,1,1,1,0,0,324.4,18.37
+MSG000170,CUST00024,2025-05-03,7,Saturday,Promotional,Tier 3,25-34,iOS,Referral,588,1,1,0,0,0,214.9,
+MSG000171,CUST00024,2025-05-11,17,Sunday,Promotional,Tier 3,25-34,iOS,Referral,588,1,1,1,1,1,21.2,18.86
+MSG000172,CUST00024,2025-06-07,8,Saturday,Festive Offer,Tier 3,25-34,iOS,Referral,588,1,1,1,1,0,35.6,2.55
+MSG000173,CUST00024,2025-06-24,3,Tuesday,Festive Offer,Tier 3,25-34,iOS,Referral,588,1,1,1,0,0,22.7,0.7
+MSG000174,CUST00024,2025-07-06,14,Sunday,Feedback Request,Tier 3,25-34,iOS,Referral,588,1,1,0,0,0,51.5,
+MSG000175,CUST00025,2025-03-25,13,Tuesday,Reminder,Tier 2,18-24,Android,Social Ads,564,1,1,0,0,0,241.4,
+MSG000176,CUST00025,2025-04-06,6,Sunday,Reminder,Tier 2,18-24,Android,Social Ads,564,1,0,0,0,0,,
+MSG000177,CUST00025,2025-05-17,16,Saturday,Festive Offer,Tier 2,18-24,Android,Social Ads,564,1,1,1,1,0,2.4,42.92
+MSG000178,CUST00025,2025-06-14,11,Saturday,Transactional,Tier 2,18-24,Android,Social Ads,564,1,0,0,0,0,,
+MSG000179,CUST00026,2025-03-10,14,Monday,Reminder,Tier 1,25-34,iOS,In-Store,90,1,1,0,0,0,99.6,
+MSG000180,CUST00026,2025-03-19,13,Wednesday,Promotional,Tier 1,25-34,iOS,In-Store,90,1,0,0,0,0,,
+MSG000181,CUST00026,2025-04-23,16,Wednesday,Promotional,Tier 1,25-34,iOS,In-Store,90,1,1,1,0,1,2.4,48.42
+MSG000182,CUST00026,2025-05-27,16,Tuesday,Festive Offer,Tier 1,25-34,iOS,In-Store,90,1,1,0,0,0,1.2,
+MSG000183,CUST00026,2025-06-14,10,Saturday,Promotional,Tier 1,25-34,iOS,In-Store,90,1,0,0,0,0,,
+MSG000184,CUST00026,2025-07-31,13,Thursday,Festive Offer,Tier 1,25-34,iOS,In-Store,90,1,0,0,0,0,,
+MSG000185,CUST00026,2025-08-21,19,Thursday,Promotional,Tier 1,25-34,iOS,In-Store,90,1,1,0,0,0,215.9,
+MSG000186,CUST00027,2025-03-13,19,Thursday,Festive Offer,Tier 2,25-34,Android,Social Ads,615,1,1,0,0,0,93.1,
+MSG000187,CUST00027,2025-03-19,16,Wednesday,Festive Offer,Tier 2,25-34,Android,Social Ads,615,1,0,0,0,0,,
+MSG000188,CUST00027,2025-03-23,15,Sunday,Reminder,Tier 2,25-34,Android,Social Ads,615,1,0,0,0,0,,
+MSG000189,CUST00027,2025-03-26,14,Wednesday,Promotional,Tier 2,25-34,Android,Social Ads,615,1,1,0,0,0,24.2,
+MSG000190,CUST00027,2025-04-13,16,Sunday,Reminder,Tier 2,25-34,Android,Social Ads,615,1,1,0,0,0,165.9,
+MSG000191,CUST00027,2025-05-11,11,Sunday,Promotional,Tier 2,25-34,Android,Social Ads,615,1,1,1,0,0,112.7,54.42
+MSG000192,CUST00027,2025-06-06,10,Friday,Reminder,Tier 2,25-34,Android,Social Ads,615,1,0,0,0,0,,
+MSG000193,CUST00027,2025-07-19,11,Saturday,Transactional,Tier 2,25-34,Android,Social Ads,615,1,1,1,1,0,199.0,12.44
+MSG000194,CUST00027,2025-08-04,13,Monday,Festive Offer,Tier 2,25-34,Android,Social Ads,615,1,1,0,0,0,89.3,
+MSG000195,CUST00027,2025-08-19,12,Tuesday,Promotional,Tier 2,25-34,Android,Social Ads,615,1,1,0,0,0,20.6,
+MSG000196,CUST00027,2025-08-27,11,Wednesday,Promotional,Tier 2,25-34,Android,Social Ads,615,1,1,0,0,0,6.8,
+MSG000197,CUST00028,2025-03-11,10,Tuesday,Transactional,Tier 1,18-24,Android,Referral,808,1,1,1,1,0,301.3,3.71
+MSG000198,CUST00028,2025-06-06,18,Friday,Promotional,Tier 1,18-24,Android,Referral,808,1,0,0,0,0,,
+MSG000199,CUST00028,2025-06-27,15,Friday,Feedback Request,Tier 1,18-24,Android,Referral,808,1,1,0,0,1,88.8,
+MSG000200,CUST00028,2025-07-22,9,Tuesday,Feedback Request,Tier 1,18-24,Android,Referral,808,1,1,1,1,0,27.4,15.55
+MSG000201,CUST00029,2025-03-09,16,Sunday,Promotional,Tier 1,18-24,Android,Referral,778,1,1,0,0,0,59.7,
+MSG000202,CUST00029,2025-05-09,15,Friday,Reminder,Tier 1,18-24,Android,Referral,778,1,1,0,0,0,127.0,
+MSG000203,CUST00029,2025-06-06,16,Friday,Reminder,Tier 1,18-24,Android,Referral,778,1,1,0,0,1,128.0,
+MSG000204,CUST00029,2025-08-11,13,Monday,Reminder,Tier 1,18-24,Android,Referral,778,1,1,0,0,0,63.0,
+MSG000205,CUST00030,2025-03-01,17,Saturday,Transactional,Tier 2,25-34,Android,Website Signup,35,1,1,0,0,0,204.4,
+MSG000206,CUST00030,2025-03-05,9,Wednesday,Promotional,Tier 2,25-34,Android,Website Signup,35,1,1,0,0,0,233.2,
+MSG000207,CUST00030,2025-03-15,16,Saturday,Reminder,Tier 2,25-34,Android,Website Signup,35,1,1,1,0,0,288.2,30.72
+MSG000208,CUST00030,2025-03-26,4,Wednesday,Festive Offer,Tier 2,25-34,Android,Website Signup,35,1,0,0,0,0,,
+MSG000209,CUST00030,2025-04-05,18,Saturday,Festive Offer,Tier 2,25-34,Android,Website Signup,35,1,0,0,0,0,,
+MSG000210,CUST00030,2025-04-22,9,Tuesday,Feedback Request,Tier 2,25-34,Android,Website Signup,35,1,1,1,0,0,74.6,0.43
+MSG000211,CUST00030,2025-05-04,14,Sunday,Reminder,Tier 2,25-34,Android,Website Signup,35,1,1,1,0,0,141.5,52.63
+MSG000212,CUST00030,2025-05-05,16,Monday,Festive Offer,Tier 2,25-34,Android,Website Signup,35,1,0,0,0,0,,
+MSG000213,CUST00030,2025-05-10,21,Saturday,Festive Offer,Tier 2,25-34,Android,Website Signup,35,1,0,0,0,0,,
+MSG000214,CUST00030,2025-07-11,14,Friday,Feedback Request,Tier 2,25-34,Android,Website Signup,35,1,1,0,0,0,54.8,
+MSG000215,CUST00030,2025-08-01,9,Friday,Promotional,Tier 2,25-34,Android,Website Signup,35,1,1,0,0,0,70.5,
+MSG000216,CUST00030,2025-08-18,11,Monday,Transactional,Tier 2,25-34,Android,Website Signup,35,1,0,0,0,0,,
+MSG000217,CUST00031,2025-03-13,12,Thursday,Reminder,Tier 2,18-24,Android,In-Store,228,1,0,0,0,0,,
+MSG000218,CUST00031,2025-04-20,9,Sunday,Reminder,Tier 2,18-24,Android,In-Store,228,1,0,0,0,0,,
+MSG000219,CUST00031,2025-05-02,17,Friday,Promotional,Tier 2,18-24,Android,In-Store,228,1,0,0,0,0,,
+MSG000220,CUST00031,2025-06-16,12,Monday,Reminder,Tier 2,18-24,Android,In-Store,228,1,0,0,0,0,,
+MSG000221,CUST00031,2025-06-29,10,Sunday,Promotional,Tier 2,18-24,Android,In-Store,228,0,0,0,0,0,,
+MSG000222,CUST00031,2025-07-06,5,Sunday,Promotional,Tier 2,18-24,Android,In-Store,228,1,0,0,0,0,,
+MSG000223,CUST00031,2025-07-16,9,Wednesday,Promotional,Tier 2,18-24,Android,In-Store,228,1,1,1,0,0,98.1,29.01
+MSG000224,CUST00031,2025-07-26,11,Saturday,Transactional,Tier 2,18-24,Android,In-Store,228,1,0,0,0,0,,
+MSG000225,CUST00031,2025-07-29,14,Tuesday,Promotional,Tier 2,18-24,Android,In-Store,228,1,0,0,0,0,,
+MSG000226,CUST00031,2025-08-05,14,Tuesday,Promotional,Tier 2,18-24,Android,In-Store,228,1,1,0,0,0,188.6,
+MSG000227,CUST00032,2025-03-07,5,Friday,Promotional,Tier 3,45-54,Android,Website Signup,224,1,0,0,0,0,,
+MSG000228,CUST00032,2025-05-31,16,Saturday,Festive Offer,Tier 3,45-54,Android,Website Signup,224,1,0,0,0,0,,
+MSG000229,CUST00032,2025-07-20,8,Sunday,Promotional,Tier 3,45-54,Android,Website Signup,224,1,1,0,0,0,166.9,
+MSG000230,CUST00032,2025-08-30,12,Saturday,Promotional,Tier 3,45-54,Android,Website Signup,224,1,0,0,0,0,,
+MSG000231,CUST00033,2025-03-19,13,Wednesday,Promotional,Tier 1,25-34,iOS,In-Store,413,1,0,0,0,0,,
+MSG000232,CUST00033,2025-03-22,9,Saturday,Reminder,Tier 1,25-34,iOS,In-Store,413,1,1,0,0,0,349.3,
+MSG000233,CUST00033,2025-03-25,12,Tuesday,Reminder,Tier 1,25-34,iOS,In-Store,413,1,0,0,0,0,,
+MSG000234,CUST00033,2025-04-17,9,Thursday,Transactional,Tier 1,25-34,iOS,In-Store,413,1,1,0,0,0,15.0,
+MSG000235,CUST00033,2025-05-27,12,Tuesday,Promotional,Tier 1,25-34,iOS,In-Store,413,1,1,1,0,0,169.9,35.41
+MSG000236,CUST00033,2025-06-03,16,Tuesday,Promotional,Tier 1,25-34,iOS,In-Store,413,1,0,0,0,0,,
+MSG000237,CUST00033,2025-06-06,10,Friday,Transactional,Tier 1,25-34,iOS,In-Store,413,1,1,0,0,0,93.9,
+MSG000238,CUST00033,2025-06-11,12,Wednesday,Reminder,Tier 1,25-34,iOS,In-Store,413,1,1,0,0,0,1.9,
+MSG000239,CUST00033,2025-06-28,19,Saturday,Transactional,Tier 1,25-34,iOS,In-Store,413,1,1,0,0,0,1.0,
+MSG000240,CUST00034,2025-04-21,10,Monday,Feedback Request,Tier 1,25-34,Android,Social Ads,137,1,0,0,0,0,,
+MSG000241,CUST00034,2025-04-27,15,Sunday,Reminder,Tier 1,25-34,Android,Social Ads,137,1,1,0,0,0,206.9,
+MSG000242,CUST00034,2025-04-29,19,Tuesday,Promotional,Tier 1,25-34,Android,Social Ads,137,1,1,0,0,0,61.1,
+MSG000243,CUST00034,2025-05-09,10,Friday,Transactional,Tier 1,25-34,Android,Social Ads,137,1,1,0,0,0,92.9,
+MSG000244,CUST00034,2025-05-15,14,Thursday,Promotional,Tier 1,25-34,Android,Social Ads,137,1,1,0,0,0,76.4,
+MSG000245,CUST00034,2025-05-19,22,Monday,Reminder,Tier 1,25-34,Android,Social Ads,137,0,0,0,0,0,,
+MSG000246,CUST00034,2025-06-07,9,Saturday,Promotional,Tier 1,25-34,Android,Social Ads,137,1,0,0,0,0,,
+MSG000247,CUST00034,2025-07-18,13,Friday,Feedback Request,Tier 1,25-34,Android,Social Ads,137,0,0,0,0,0,,
+MSG000248,CUST00034,2025-07-28,15,Monday,Promotional,Tier 1,25-34,Android,Social Ads,137,1,1,0,0,0,121.2,
+MSG000249,CUST00035,2025-03-29,19,Saturday,Festive Offer,Tier 2,25-34,iOS,Website Signup,770,1,1,0,0,0,4.5,
+MSG000250,CUST00035,2025-04-14,1,Monday,Reminder,Tier 2,25-34,iOS,Website Signup,770,1,1,0,0,0,181.9,
+MSG000251,CUST00035,2025-04-16,10,Wednesday,Transactional,Tier 2,25-34,iOS,Website Signup,770,1,1,1,1,0,81.0,48.27
+MSG000252,CUST00035,2025-07-30,16,Wednesday,Transactional,Tier 2,25-34,iOS,Website Signup,770,1,0,0,0,0,,
+MSG000253,CUST00035,2025-08-05,13,Tuesday,Festive Offer,Tier 2,25-34,iOS,Website Signup,770,1,1,1,0,0,44.5,7.85
+MSG000254,CUST00035,2025-08-09,8,Saturday,Feedback Request,Tier 2,25-34,iOS,Website Signup,770,1,1,1,1,0,31.9,7.77
+MSG000255,CUST00036,2025-04-06,13,Sunday,Feedback Request,Tier 1,18-24,iOS,Referral,701,1,1,0,0,0,77.2,
+MSG000256,CUST00036,2025-04-16,20,Wednesday,Promotional,Tier 1,18-24,iOS,Referral,701,1,1,1,0,0,6.2,1.17
+MSG000257,CUST00036,2025-06-28,16,Saturday,Festive Offer,Tier 1,18-24,iOS,Referral,701,1,1,1,1,0,48.5,7.46
+MSG000258,CUST00037,2025-04-15,18,Tuesday,Festive Offer,Tier 1,55+,Android,Website Signup,729,1,1,0,0,0,4.8,
+MSG000259,CUST00037,2025-05-25,13,Sunday,Festive Offer,Tier 1,55+,Android,Website Signup,729,1,0,0,0,0,,
+MSG000260,CUST00037,2025-06-18,16,Wednesday,Promotional,Tier 1,55+,Android,Website Signup,729,1,1,0,0,0,174.1,
+MSG000261,CUST00037,2025-06-26,20,Thursday,Promotional,Tier 1,55+,Android,Website Signup,729,1,0,0,0,1,,
+MSG000262,CUST00038,2025-03-24,12,Monday,Reminder,Tier 2,25-34,iOS,In-Store,186,1,1,0,0,0,111.4,
+MSG000263,CUST00038,2025-03-28,7,Friday,Festive Offer,Tier 2,25-34,iOS,In-Store,186,1,0,0,0,0,,
+MSG000264,CUST00038,2025-04-12,19,Saturday,Festive Offer,Tier 2,25-34,iOS,In-Store,186,1,1,0,0,0,24.3,
+MSG000265,CUST00038,2025-04-16,13,Wednesday,Promotional,Tier 2,25-34,iOS,In-Store,186,1,1,1,1,0,277.8,13.05
+MSG000266,CUST00038,2025-05-10,16,Saturday,Festive Offer,Tier 2,25-34,iOS,In-Store,186,0,0,0,0,0,,
+MSG000267,CUST00038,2025-08-29,20,Friday,Festive Offer,Tier 2,25-34,iOS,In-Store,186,0,0,0,0,0,,
+MSG000268,CUST00039,2025-03-02,11,Sunday,Promotional,Tier 1,35-44,Android,Website Signup,22,1,1,0,0,0,18.9,
+MSG000269,CUST00039,2025-03-17,4,Monday,Feedback Request,Tier 1,35-44,Android,Website Signup,22,1,1,0,0,0,16.6,
+MSG000270,CUST00039,2025-04-10,15,Thursday,Promotional,Tier 1,35-44,Android,Website Signup,22,0,0,0,0,0,,
+MSG000271,CUST00039,2025-04-13,12,Sunday,Festive Offer,Tier 1,35-44,Android,Website Signup,22,1,0,0,0,0,,
+MSG000272,CUST00039,2025-04-19,13,Saturday,Feedback Request,Tier 1,35-44,Android,Website Signup,22,1,0,0,0,0,,
+MSG000273,CUST00039,2025-05-02,9,Friday,Reminder,Tier 1,35-44,Android,Website Signup,22,1,1,0,0,0,9.3,
+MSG000274,CUST00039,2025-06-21,16,Saturday,Transactional,Tier 1,35-44,Android,Website Signup,22,1,1,0,0,0,214.5,
+MSG000275,CUST00039,2025-06-21,10,Saturday,Feedback Request,Tier 1,35-44,Android,Website Signup,22,1,0,0,0,0,,
+MSG000276,CUST00039,2025-06-30,11,Monday,Promotional,Tier 1,35-44,Android,Website Signup,22,1,1,0,0,0,72.6,
+MSG000277,CUST00039,2025-07-21,16,Monday,Festive Offer,Tier 1,35-44,Android,Website Signup,22,1,1,0,0,0,485.6,
+MSG000278,CUST00040,2025-03-09,15,Sunday,Feedback Request,Tier 2,18-24,Android,Social Ads,820,0,0,0,0,0,,
+MSG000279,CUST00040,2025-03-13,16,Thursday,Promotional,Tier 2,18-24,Android,Social Ads,820,1,1,1,0,0,18.7,9.96
+MSG000280,CUST00040,2025-04-04,15,Friday,Festive Offer,Tier 2,18-24,Android,Social Ads,820,1,0,0,0,0,,
+MSG000281,CUST00040,2025-05-01,13,Thursday,Promotional,Tier 2,18-24,Android,Social Ads,820,1,0,0,0,0,,
+MSG000282,CUST00040,2025-05-28,17,Wednesday,Promotional,Tier 2,18-24,Android,Social Ads,820,1,1,1,0,0,127.0,1.29
+MSG000283,CUST00040,2025-08-04,13,Monday,Reminder,Tier 2,18-24,Android,Social Ads,820,1,1,0,0,0,213.6,
+MSG000284,CUST00041,2025-07-15,10,Tuesday,Feedback Request,Tier 1,25-34,iOS,Website Signup,267,1,1,0,0,0,9.3,
+MSG000285,CUST00041,2025-07-28,20,Monday,Festive Offer,Tier 1,25-34,iOS,Website Signup,267,1,1,1,1,0,2.7,4.61
+MSG000286,CUST00041,2025-08-16,20,Saturday,Festive Offer,Tier 1,25-34,iOS,Website Signup,267,1,0,0,0,0,,
+MSG000287,CUST00042,2025-03-21,10,Friday,Promotional,Tier 3,25-34,iOS,Social Ads,594,0,0,0,0,0,,
+MSG000288,CUST00042,2025-03-25,15,Tuesday,Promotional,Tier 3,25-34,iOS,Social Ads,594,1,1,1,1,0,36.8,1.81
+MSG000289,CUST00042,2025-03-31,13,Monday,Festive Offer,Tier 3,25-34,iOS,Social Ads,594,1,1,1,0,0,3.1,0.76
+MSG000290,CUST00042,2025-04-13,15,Sunday,Promotional,Tier 3,25-34,iOS,Social Ads,594,1,1,1,1,0,8.1,11.8
+MSG000291,CUST00042,2025-04-24,8,Thursday,Festive Offer,Tier 3,25-34,iOS,Social Ads,594,0,0,0,0,0,,
+MSG000292,CUST00042,2025-05-03,12,Saturday,Reminder,Tier 3,25-34,iOS,Social Ads,594,1,1,1,1,0,43.7,7.2
+MSG000293,CUST00042,2025-05-20,14,Tuesday,Promotional,Tier 3,25-34,iOS,Social Ads,594,1,1,1,1,0,176.1,0.46
+MSG000294,CUST00042,2025-05-28,17,Wednesday,Festive Offer,Tier 3,25-34,iOS,Social Ads,594,1,0,0,0,0,,
+MSG000295,CUST00042,2025-06-28,5,Saturday,Transactional,Tier 3,25-34,iOS,Social Ads,594,1,1,0,0,0,29.2,
+MSG000296,CUST00043,2025-03-05,11,Wednesday,Feedback Request,Tier 2,45-54,Android,Social Ads,819,1,1,0,0,0,20.9,
+MSG000297,CUST00043,2025-03-09,14,Sunday,Promotional,Tier 2,45-54,Android,Social Ads,819,1,0,0,0,0,,
+MSG000298,CUST00043,2025-03-12,16,Wednesday,Reminder,Tier 2,45-54,Android,Social Ads,819,1,1,0,0,0,110.5,
+MSG000299,CUST00043,2025-04-07,10,Monday,Promotional,Tier 2,45-54,Android,Social Ads,819,1,1,1,1,0,172.6,10.9
+MSG000300,CUST00043,2025-04-29,2,Tuesday,Promotional,Tier 2,45-54,Android,Social Ads,819,1,0,0,0,0,,
+MSG000301,CUST00043,2025-05-01,12,Thursday,Festive Offer,Tier 2,45-54,Android,Social Ads,819,1,1,1,0,0,102.8,4.08
+MSG000302,CUST00043,2025-05-26,10,Monday,Reminder,Tier 2,45-54,Android,Social Ads,819,1,1,1,0,0,93.2,12.38
+MSG000303,CUST00043,2025-06-19,11,Thursday,Promotional,Tier 2,45-54,Android,Social Ads,819,1,0,0,0,0,,
+MSG000304,CUST00044,2025-05-06,15,Tuesday,Promotional,Tier 1,25-34,Android,Referral,42,1,1,0,0,0,262.1,
+MSG000305,CUST00044,2025-06-02,8,Monday,Promotional,Tier 1,25-34,Android,Referral,42,0,0,0,0,0,,
+MSG000306,CUST00044,2025-07-12,12,Saturday,Transactional,Tier 1,25-34,Android,Referral,42,1,0,0,0,1,,
+MSG000307,CUST00045,2025-03-14,13,Friday,Reminder,Tier 3,25-34,Android,In-Store,14,1,1,0,0,0,129.4,
+MSG000308,CUST00045,2025-04-15,13,Tuesday,Reminder,Tier 3,25-34,Android,In-Store,14,1,0,0,0,0,,
+MSG000309,CUST00045,2025-07-13,12,Sunday,Reminder,Tier 3,25-34,Android,In-Store,14,1,0,0,0,0,,
+MSG000310,CUST00045,2025-07-15,19,Tuesday,Promotional,Tier 3,25-34,Android,In-Store,14,1,0,0,0,0,,
+MSG000311,CUST00045,2025-08-04,15,Monday,Promotional,Tier 3,25-34,Android,In-Store,14,1,0,0,0,0,,
+MSG000312,CUST00045,2025-08-06,11,Wednesday,Reminder,Tier 3,25-34,Android,In-Store,14,1,1,1,1,0,44.1,56.64
+MSG000313,CUST00045,2025-08-18,9,Monday,Promotional,Tier 3,25-34,Android,In-Store,14,1,0,0,0,0,,
+MSG000314,CUST00046,2025-03-04,6,Tuesday,Promotional,Tier 3,18-24,iOS,In-Store,14,1,1,0,0,0,5.8,
+MSG000315,CUST00046,2025-07-03,11,Thursday,Feedback Request,Tier 3,18-24,iOS,In-Store,14,1,1,1,0,0,452.7,1.76
+MSG000316,CUST00046,2025-07-07,10,Monday,Reminder,Tier 3,18-24,iOS,In-Store,14,0,0,0,0,0,,
+MSG000317,CUST00046,2025-07-18,8,Friday,Transactional,Tier 3,18-24,iOS,In-Store,14,1,1,0,0,0,165.0,
+MSG000318,CUST00047,2025-04-22,6,Tuesday,Festive Offer,Tier 1,25-34,Android,Social Ads,149,1,0,0,0,0,,
+MSG000319,CUST00047,2025-04-24,14,Thursday,Festive Offer,Tier 1,25-34,Android,Social Ads,149,1,0,0,0,0,,
+MSG000320,CUST00047,2025-06-12,8,Thursday,Festive Offer,Tier 1,25-34,Android,Social Ads,149,1,0,0,0,0,,
+MSG000321,CUST00047,2025-08-19,13,Tuesday,Reminder,Tier 1,25-34,Android,Social Ads,149,1,0,0,0,0,,
+MSG000322,CUST00048,2025-04-21,6,Monday,Festive Offer,Tier 1,25-34,Android,Website Signup,55,1,0,0,0,0,,
+MSG000323,CUST00048,2025-05-19,10,Monday,Promotional,Tier 1,25-34,Android,Website Signup,55,1,0,0,0,0,,
+MSG000324,CUST00048,2025-05-25,13,Sunday,Transactional,Tier 1,25-34,Android,Website Signup,55,1,1,1,1,0,44.4,1.64
+MSG000325,CUST00048,2025-06-04,20,Wednesday,Promotional,Tier 1,25-34,Android,Website Signup,55,1,1,1,0,0,23.5,68.34
+MSG000326,CUST00048,2025-06-21,7,Saturday,Promotional,Tier 1,25-34,Android,Website Signup,55,1,0,0,0,0,,
+MSG000327,CUST00048,2025-07-04,18,Friday,Festive Offer,Tier 1,25-34,Android,Website Signup,55,1,1,0,0,0,14.9,
+MSG000328,CUST00048,2025-07-28,4,Monday,Feedback Request,Tier 1,25-34,Android,Website Signup,55,1,1,1,0,0,125.0,14.86
+MSG000329,CUST00049,2025-03-03,11,Monday,Transactional,Tier 2,25-34,Android,Referral,739,1,1,1,0,0,117.1,9.46
+MSG000330,CUST00049,2025-03-26,15,Wednesday,Festive Offer,Tier 2,25-34,Android,Referral,739,1,1,1,1,0,43.9,3.68
+MSG000331,CUST00049,2025-04-03,10,Thursday,Promotional,Tier 2,25-34,Android,Referral,739,1,0,0,0,0,,
+MSG000332,CUST00049,2025-04-11,14,Friday,Transactional,Tier 2,25-34,Android,Referral,739,1,1,1,1,0,197.1,1.86
+MSG000333,CUST00049,2025-04-12,14,Saturday,Promotional,Tier 2,25-34,Android,Referral,739,1,0,0,0,0,,
+MSG000334,CUST00049,2025-04-26,18,Saturday,Reminder,Tier 2,25-34,Android,Referral,739,1,0,0,0,0,,
+MSG000335,CUST00049,2025-04-26,16,Saturday,Promotional,Tier 2,25-34,Android,Referral,739,1,1,0,0,0,196.6,
+MSG000336,CUST00049,2025-05-28,19,Wednesday,Promotional,Tier 2,25-34,Android,Referral,739,1,1,1,1,0,116.9,23.65
+MSG000337,CUST00049,2025-06-13,12,Friday,Reminder,Tier 2,25-34,Android,Referral,739,1,1,0,0,0,14.6,
+MSG000338,CUST00049,2025-07-19,18,Saturday,Transactional,Tier 2,25-34,Android,Referral,739,1,1,1,1,0,48.6,1.53
+MSG000339,CUST00049,2025-08-02,12,Saturday,Transactional,Tier 2,25-34,Android,Referral,739,1,0,0,0,0,,
+MSG000340,CUST00049,2025-08-31,7,Sunday,Reminder,Tier 2,25-34,Android,Referral,739,1,1,0,0,0,152.0,
+MSG000341,CUST00050,2025-03-07,14,Friday,Reminder,Tier 1,18-24,Android,Website Signup,549,1,1,0,0,0,131.9,
+MSG000342,CUST00050,2025-04-24,22,Thursday,Promotional,Tier 1,18-24,Android,Website Signup,549,1,1,0,0,0,10.7,
+MSG000343,CUST00050,2025-04-29,12,Tuesday,Reminder,Tier 1,18-24,Android,Website Signup,549,1,1,0,0,0,5.3,
+MSG000344,CUST00050,2025-05-03,16,Saturday,Promotional,Tier 1,18-24,Android,Website Signup,549,1,1,0,0,0,159.4,
+MSG000345,CUST00050,2025-05-08,17,Thursday,Festive Offer,Tier 1,18-24,Android,Website Signup,549,0,0,0,0,0,,
+MSG000346,CUST00050,2025-06-21,9,Saturday,Festive Offer,Tier 1,18-24,Android,Website Signup,549,1,0,0,0,0,,
+MSG000347,CUST00050,2025-07-15,12,Tuesday,Transactional,Tier 1,18-24,Android,Website Signup,549,1,1,0,0,0,224.2,
+MSG000348,CUST00050,2025-07-23,19,Wednesday,Promotional,Tier 1,18-24,Android,Website Signup,549,0,0,0,0,0,,
+MSG000349,CUST00050,2025-07-24,7,Thursday,Feedback Request,Tier 1,18-24,Android,Website Signup,549,1,0,0,0,0,,
+MSG000350,CUST00050,2025-08-09,14,Saturday,Festive Offer,Tier 1,18-24,Android,Website Signup,549,1,1,0,0,0,307.1,
+MSG000351,CUST00050,2025-08-18,13,Monday,Festive Offer,Tier 1,18-24,Android,Website Signup,549,1,1,0,0,0,30.4,
+MSG000352,CUST00051,2025-05-08,14,Thursday,Promotional,Tier 1,35-44,Android,Referral,882,1,0,0,0,0,,
+MSG000353,CUST00051,2025-05-25,8,Sunday,Promotional,Tier 1,35-44,Android,Referral,882,1,1,0,0,0,120.0,
+MSG000354,CUST00051,2025-06-25,8,Wednesday,Feedback Request,Tier 1,35-44,Android,Referral,882,1,0,0,0,0,,
+MSG000355,CUST00051,2025-07-17,15,Thursday,Festive Offer,Tier 1,35-44,Android,Referral,882,0,0,0,0,0,,
+MSG000356,CUST00052,2025-03-16,12,Sunday,Promotional,Tier 1,45-54,iOS,Website Signup,723,0,0,0,0,0,,
+MSG000357,CUST00052,2025-04-21,9,Monday,Promotional,Tier 1,45-54,iOS,Website Signup,723,1,1,1,0,0,3.5,10.64
+MSG000358,CUST00052,2025-05-30,15,Friday,Festive Offer,Tier 1,45-54,iOS,Website Signup,723,1,1,1,1,0,156.0,0.76
+MSG000359,CUST00052,2025-06-30,15,Monday,Reminder,Tier 1,45-54,iOS,Website Signup,723,1,1,1,0,0,123.8,23.36
+MSG000360,CUST00052,2025-08-01,15,Friday,Promotional,Tier 1,45-54,iOS,Website Signup,723,1,0,0,0,0,,
+MSG000361,CUST00052,2025-08-19,19,Tuesday,Promotional,Tier 1,45-54,iOS,Website Signup,723,1,1,0,0,0,76.7,
+MSG000362,CUST00053,2025-04-22,18,Tuesday,Transactional,Tier 2,18-24,Android,Referral,867,1,1,1,1,0,52.6,6.06
+MSG000363,CUST00053,2025-04-23,7,Wednesday,Reminder,Tier 2,18-24,Android,Referral,867,1,1,1,1,0,13.4,6.52
+MSG000364,CUST00053,2025-05-16,14,Friday,Promotional,Tier 2,18-24,Android,Referral,867,1,1,1,1,0,26.0,21.06
+MSG000365,CUST00053,2025-05-26,14,Monday,Promotional,Tier 2,18-24,Android,Referral,867,1,1,1,1,0,38.7,2.18
+MSG000366,CUST00053,2025-06-13,13,Friday,Transactional,Tier 2,18-24,Android,Referral,867,1,1,0,0,0,160.6,
+MSG000367,CUST00053,2025-06-23,12,Monday,Transactional,Tier 2,18-24,Android,Referral,867,1,0,0,0,0,,
+MSG000368,CUST00053,2025-07-23,10,Wednesday,Promotional,Tier 2,18-24,Android,Referral,867,1,0,0,0,0,,
+MSG000369,CUST00054,2025-03-08,12,Saturday,Festive Offer,Tier 2,25-34,Android,Referral,222,1,0,0,0,0,,
+MSG000370,CUST00054,2025-03-25,11,Tuesday,Festive Offer,Tier 2,25-34,Android,Referral,222,1,1,1,1,0,102.0,4.04
+MSG000371,CUST00054,2025-03-27,8,Thursday,Transactional,Tier 2,25-34,Android,Referral,222,1,0,0,0,0,,
+MSG000372,CUST00054,2025-04-05,14,Saturday,Reminder,Tier 2,25-34,Android,Referral,222,1,0,0,0,0,,
+MSG000373,CUST00054,2025-04-27,12,Sunday,Reminder,Tier 2,25-34,Android,Referral,222,1,1,0,0,0,20.3,
+MSG000374,CUST00054,2025-05-13,9,Tuesday,Promotional,Tier 2,25-34,Android,Referral,222,1,1,0,0,0,24.4,
+MSG000375,CUST00054,2025-05-18,13,Sunday,Promotional,Tier 2,25-34,Android,Referral,222,1,0,0,0,0,,
+MSG000376,CUST00054,2025-06-09,19,Monday,Festive Offer,Tier 2,25-34,Android,Referral,222,0,0,0,0,0,,
+MSG000377,CUST00054,2025-07-14,19,Monday,Feedback Request,Tier 2,25-34,Android,Referral,222,1,1,1,1,0,36.4,15.11
+MSG000378,CUST00054,2025-08-08,8,Friday,Promotional,Tier 2,25-34,Android,Referral,222,1,1,1,1,0,228.4,0.71
+MSG000379,CUST00055,2025-03-10,3,Monday,Promotional,Tier 2,18-24,Android,Referral,266,1,1,0,0,0,253.4,
+MSG000380,CUST00055,2025-03-17,6,Monday,Promotional,Tier 2,18-24,Android,Referral,266,1,1,1,0,0,104.4,21.83
+MSG000381,CUST00055,2025-03-26,11,Wednesday,Promotional,Tier 2,18-24,Android,Referral,266,1,1,0,0,0,26.6,
+MSG000382,CUST00055,2025-05-08,14,Thursday,Promotional,Tier 2,18-24,Android,Referral,266,1,0,0,0,0,,
+MSG000383,CUST00055,2025-05-21,16,Wednesday,Transactional,Tier 2,18-24,Android,Referral,266,1,1,0,0,0,95.3,
+MSG000384,CUST00055,2025-05-30,14,Friday,Feedback Request,Tier 2,18-24,Android,Referral,266,1,0,0,0,0,,
+MSG000385,CUST00055,2025-06-18,13,Wednesday,Transactional,Tier 2,18-24,Android,Referral,266,1,1,0,0,0,112.6,
+MSG000386,CUST00055,2025-06-28,5,Saturday,Festive Offer,Tier 2,18-24,Android,Referral,266,1,0,0,0,0,,
+MSG000387,CUST00055,2025-06-29,11,Sunday,Promotional,Tier 2,18-24,Android,Referral,266,1,0,0,0,0,,
+MSG000388,CUST00055,2025-07-05,9,Saturday,Reminder,Tier 2,18-24,Android,Referral,266,1,1,0,0,0,70.7,
+MSG000389,CUST00055,2025-08-26,8,Tuesday,Feedback Request,Tier 2,18-24,Android,Referral,266,1,1,0,0,0,9.9,
+MSG000390,CUST00056,2025-04-03,14,Thursday,Promotional,Tier 2,35-44,Android,Referral,765,1,1,0,0,0,24.3,
+MSG000391,CUST00056,2025-05-12,17,Monday,Promotional,Tier 2,35-44,Android,Referral,765,1,0,0,0,0,,
+MSG000392,CUST00056,2025-05-14,15,Wednesday,Reminder,Tier 2,35-44,Android,Referral,765,1,0,0,0,0,,
+MSG000393,CUST00056,2025-05-17,14,Saturday,Promotional,Tier 2,35-44,Android,Referral,765,1,1,0,0,0,36.8,
+MSG000394,CUST00056,2025-06-19,9,Thursday,Reminder,Tier 2,35-44,Android,Referral,765,1,1,0,0,0,67.6,
+MSG000395,CUST00056,2025-06-28,19,Saturday,Reminder,Tier 2,35-44,Android,Referral,765,1,1,1,0,0,77.6,23.07
+MSG000396,CUST00056,2025-07-20,10,Sunday,Transactional,Tier 2,35-44,Android,Referral,765,1,1,1,0,0,381.3,7.33
+MSG000397,CUST00056,2025-08-10,12,Sunday,Festive Offer,Tier 2,35-44,Android,Referral,765,1,1,1,0,0,7.3,63.78
+MSG000398,CUST00057,2025-03-01,14,Saturday,Promotional,Tier 2,18-24,iOS,In-Store,227,1,1,0,0,0,130.2,
+MSG000399,CUST00057,2025-03-07,15,Friday,Transactional,Tier 2,18-24,iOS,In-Store,227,1,1,1,1,0,120.4,11.05
+MSG000400,CUST00057,2025-03-10,12,Monday,Transactional,Tier 2,18-24,iOS,In-Store,227,1,1,0,0,0,235.2,
+MSG000401,CUST00057,2025-05-10,2,Saturday,Festive Offer,Tier 2,18-24,iOS,In-Store,227,1,1,0,0,0,77.7,
+MSG000402,CUST00057,2025-05-11,17,Sunday,Festive Offer,Tier 2,18-24,iOS,In-Store,227,1,1,0,0,0,78.4,
+MSG000403,CUST00057,2025-05-27,9,Tuesday,Promotional,Tier 2,18-24,iOS,In-Store,227,1,0,0,0,0,,
+MSG000404,CUST00057,2025-06-03,14,Tuesday,Festive Offer,Tier 2,18-24,iOS,In-Store,227,1,0,0,0,0,,
+MSG000405,CUST00057,2025-06-06,11,Friday,Promotional,Tier 2,18-24,iOS,In-Store,227,1,0,0,0,0,,
+MSG000406,CUST00057,2025-07-25,15,Friday,Festive Offer,Tier 2,18-24,iOS,In-Store,227,1,1,1,1,0,193.8,11.21
+MSG000407,CUST00058,2025-03-16,9,Sunday,Promotional,Tier 2,35-44,Android,In-Store,60,1,1,1,0,0,13.9,15.28
+MSG000408,CUST00058,2025-04-04,14,Friday,Promotional,Tier 2,35-44,Android,In-Store,60,0,0,0,0,0,,
+MSG000409,CUST00058,2025-07-03,18,Thursday,Promotional,Tier 2,35-44,Android,In-Store,60,1,1,0,0,0,107.8,
+MSG000410,CUST00059,2025-03-25,12,Tuesday,Festive Offer,Tier 1,35-44,Android,Referral,605,1,1,1,1,0,131.5,6.38
+MSG000411,CUST00059,2025-05-24,17,Saturday,Festive Offer,Tier 1,35-44,Android,Referral,605,1,0,0,0,0,,
+MSG000412,CUST00059,2025-05-27,12,Tuesday,Feedback Request,Tier 1,35-44,Android,Referral,605,1,0,0,0,0,,
+MSG000413,CUST00059,2025-06-02,17,Monday,Transactional,Tier 1,35-44,Android,Referral,605,1,0,0,0,0,,
+MSG000414,CUST00059,2025-06-25,8,Wednesday,Festive Offer,Tier 1,35-44,Android,Referral,605,1,1,1,1,0,131.6,5.4
+MSG000415,CUST00059,2025-06-29,12,Sunday,Reminder,Tier 1,35-44,Android,Referral,605,1,0,0,0,0,,
+MSG000416,CUST00059,2025-07-23,17,Wednesday,Feedback Request,Tier 1,35-44,Android,Referral,605,1,1,0,0,0,24.8,
+MSG000417,CUST00059,2025-07-31,4,Thursday,Transactional,Tier 1,35-44,Android,Referral,605,1,1,0,0,0,115.6,
+MSG000418,CUST00059,2025-08-28,13,Thursday,Promotional,Tier 1,35-44,Android,Referral,605,1,0,0,0,0,,
+MSG000419,CUST00060,2025-06-04,12,Wednesday,Promotional,Tier 1,35-44,Android,Referral,722,1,0,0,0,0,,
+MSG000420,CUST00060,2025-07-25,19,Friday,Transactional,Tier 1,35-44,Android,Referral,722,1,1,0,0,1,28.6,
+MSG000421,CUST00060,2025-08-09,10,Saturday,Festive Offer,Tier 1,35-44,Android,Referral,722,1,0,0,0,1,,
+MSG000422,CUST00061,2025-03-04,13,Tuesday,Festive Offer,Tier 2,18-24,Android,Social Ads,871,1,0,0,0,0,,
+MSG000423,CUST00061,2025-03-05,13,Wednesday,Festive Offer,Tier 2,18-24,Android,Social Ads,871,1,1,1,0,0,123.7,45.75
+MSG000424,CUST00061,2025-03-05,6,Wednesday,Promotional,Tier 2,18-24,Android,Social Ads,871,1,0,0,0,0,,
+MSG000425,CUST00061,2025-03-13,11,Thursday,Feedback Request,Tier 2,18-24,Android,Social Ads,871,1,1,1,0,0,89.7,0.84
+MSG000426,CUST00061,2025-04-17,14,Thursday,Reminder,Tier 2,18-24,Android,Social Ads,871,1,0,0,0,1,,
+MSG000427,CUST00061,2025-05-27,11,Tuesday,Reminder,Tier 2,18-24,Android,Social Ads,871,1,0,0,0,0,,
+MSG000428,CUST00061,2025-06-03,11,Tuesday,Promotional,Tier 2,18-24,Android,Social Ads,871,1,1,0,0,0,467.6,
+MSG000429,CUST00061,2025-07-03,9,Thursday,Transactional,Tier 2,18-24,Android,Social Ads,871,1,1,0,0,0,149.2,
+MSG000430,CUST00061,2025-07-25,11,Friday,Promotional,Tier 2,18-24,Android,Social Ads,871,1,0,0,0,0,,
+MSG000431,CUST00061,2025-08-02,14,Saturday,Festive Offer,Tier 2,18-24,Android,Social Ads,871,1,0,0,0,0,,
+MSG000432,CUST00061,2025-08-23,13,Saturday,Promotional,Tier 2,18-24,Android,Social Ads,871,1,0,0,0,0,,
+MSG000433,CUST00062,2025-04-03,13,Thursday,Promotional,Tier 2,45-54,iOS,Website Signup,835,1,1,0,0,0,93.6,
+MSG000434,CUST00062,2025-04-12,8,Saturday,Reminder,Tier 2,45-54,iOS,Website Signup,835,1,1,1,0,0,64.3,2.86
+MSG000435,CUST00062,2025-04-14,17,Monday,Promotional,Tier 2,45-54,iOS,Website Signup,835,1,1,0,0,0,3.5,
+MSG000436,CUST00062,2025-04-16,15,Wednesday,Reminder,Tier 2,45-54,iOS,Website Signup,835,1,1,1,0,0,43.1,26.01
+MSG000437,CUST00062,2025-05-05,20,Monday,Promotional,Tier 2,45-54,iOS,Website Signup,835,1,1,0,0,0,142.5,
+MSG000438,CUST00062,2025-05-09,12,Friday,Feedback Request,Tier 2,45-54,iOS,Website Signup,835,1,1,1,0,0,50.1,10.85
+MSG000439,CUST00062,2025-06-03,12,Tuesday,Transactional,Tier 2,45-54,iOS,Website Signup,835,1,0,0,0,0,,
+MSG000440,CUST00062,2025-06-17,10,Tuesday,Festive Offer,Tier 2,45-54,iOS,Website Signup,835,1,1,1,1,0,29.2,1.84
+MSG000441,CUST00062,2025-06-21,14,Saturday,Festive Offer,Tier 2,45-54,iOS,Website Signup,835,1,1,1,1,0,95.9,14.48
+MSG000442,CUST00063,2025-03-23,6,Sunday,Festive Offer,Tier 2,18-24,Android,Website Signup,117,1,1,0,0,0,96.8,
+MSG000443,CUST00063,2025-04-29,14,Tuesday,Promotional,Tier 2,18-24,Android,Website Signup,117,1,0,0,0,0,,
+MSG000444,CUST00063,2025-06-17,10,Tuesday,Festive Offer,Tier 2,18-24,Android,Website Signup,117,1,0,0,0,0,,
+MSG000445,CUST00063,2025-07-17,7,Thursday,Reminder,Tier 2,18-24,Android,Website Signup,117,1,0,0,0,0,,
+MSG000446,CUST00063,2025-07-18,20,Friday,Promotional,Tier 2,18-24,Android,Website Signup,117,1,0,0,0,0,,
+MSG000447,CUST00063,2025-07-22,14,Tuesday,Transactional,Tier 2,18-24,Android,Website Signup,117,1,0,0,0,0,,
+MSG000448,CUST00064,2025-03-01,9,Saturday,Promotional,Tier 2,18-24,Android,Website Signup,697,1,1,0,0,0,14.8,
+MSG000449,CUST00064,2025-03-13,10,Thursday,Promotional,Tier 2,18-24,Android,Website Signup,697,1,0,0,0,1,,
+MSG000450,CUST00064,2025-04-10,16,Thursday,Reminder,Tier 2,18-24,Android,Website Signup,697,1,1,0,0,0,140.9,
+MSG000451,CUST00064,2025-04-13,20,Sunday,Festive Offer,Tier 2,18-24,Android,Website Signup,697,1,0,0,0,0,,
+MSG000452,CUST00064,2025-05-27,16,Tuesday,Festive Offer,Tier 2,18-24,Android,Website Signup,697,1,1,0,0,0,305.7,
+MSG000453,CUST00064,2025-05-27,19,Tuesday,Promotional,Tier 2,18-24,Android,Website Signup,697,1,1,0,0,0,132.0,
+MSG000454,CUST00064,2025-07-03,14,Thursday,Promotional,Tier 2,18-24,Android,Website Signup,697,0,0,0,0,0,,
+MSG000455,CUST00064,2025-07-04,13,Friday,Feedback Request,Tier 2,18-24,Android,Website Signup,697,1,0,0,0,0,,
+MSG000456,CUST00065,2025-03-14,11,Friday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,1,1,0,0,47.2,44.84
+MSG000457,CUST00065,2025-03-20,8,Thursday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,1,1,0,1,18.2,17.8
+MSG000458,CUST00065,2025-03-20,16,Thursday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,1,0,0,1,1.0,
+MSG000459,CUST00065,2025-03-29,8,Saturday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,1,0,0,0,39.1,
+MSG000460,CUST00065,2025-04-25,2,Friday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,1,1,0,0,165.4,7.85
+MSG000461,CUST00065,2025-05-19,14,Monday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,1,1,1,1,337.9,3.03
+MSG000462,CUST00065,2025-07-03,15,Thursday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,1,0,0,0,7.3,
+MSG000463,CUST00065,2025-07-11,12,Friday,Promotional,Tier 2,25-34,iOS,In-Store,763,0,0,0,0,0,,
+MSG000464,CUST00065,2025-08-07,14,Thursday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,0,0,0,0,,
+MSG000465,CUST00065,2025-08-27,11,Wednesday,Promotional,Tier 2,25-34,iOS,In-Store,763,1,0,0,0,0,,
+MSG000466,CUST00066,2025-03-31,6,Monday,Transactional,Tier 2,25-34,Android,Referral,631,1,1,1,1,0,1.3,5.46
+MSG000467,CUST00066,2025-04-13,14,Sunday,Feedback Request,Tier 2,25-34,Android,Referral,631,1,1,1,1,0,42.4,5.24
+MSG000468,CUST00066,2025-05-27,18,Tuesday,Reminder,Tier 2,25-34,Android,Referral,631,1,1,1,0,0,59.9,4.83
+MSG000469,CUST00066,2025-05-28,8,Wednesday,Promotional,Tier 2,25-34,Android,Referral,631,1,1,0,0,0,24.1,
+MSG000470,CUST00066,2025-06-05,14,Thursday,Promotional,Tier 2,25-34,Android,Referral,631,1,1,1,1,0,53.6,8.76
+MSG000471,CUST00066,2025-07-21,8,Monday,Reminder,Tier 2,25-34,Android,Referral,631,0,0,0,0,0,,
+MSG000472,CUST00066,2025-08-11,10,Monday,Reminder,Tier 2,25-34,Android,Referral,631,1,0,0,0,0,,
+MSG000473,CUST00067,2025-03-30,16,Sunday,Reminder,Tier 2,35-44,Android,In-Store,739,1,1,0,0,1,1.4,
+MSG000474,CUST00067,2025-04-20,9,Sunday,Promotional,Tier 2,35-44,Android,In-Store,739,1,0,0,0,0,,
+MSG000475,CUST00067,2025-05-20,16,Tuesday,Feedback Request,Tier 2,35-44,Android,In-Store,739,1,0,0,0,0,,
+MSG000476,CUST00067,2025-05-28,12,Wednesday,Festive Offer,Tier 2,35-44,Android,In-Store,739,1,1,0,0,0,11.2,
+MSG000477,CUST00067,2025-06-01,9,Sunday,Promotional,Tier 2,35-44,Android,In-Store,739,1,0,0,0,0,,
+MSG000478,CUST00067,2025-06-02,10,Monday,Promotional,Tier 2,35-44,Android,In-Store,739,1,0,0,0,0,,
+MSG000479,CUST00067,2025-06-07,17,Saturday,Reminder,Tier 2,35-44,Android,In-Store,739,1,0,0,0,0,,
+MSG000480,CUST00067,2025-06-30,15,Monday,Feedback Request,Tier 2,35-44,Android,In-Store,739,1,1,0,0,0,132.9,
+MSG000481,CUST00067,2025-07-03,15,Thursday,Promotional,Tier 2,35-44,Android,In-Store,739,1,1,0,0,0,32.9,
+MSG000482,CUST00067,2025-07-31,17,Thursday,Feedback Request,Tier 2,35-44,Android,In-Store,739,1,0,0,0,0,,
+MSG000483,CUST00067,2025-08-06,14,Wednesday,Festive Offer,Tier 2,35-44,Android,In-Store,739,1,1,1,0,0,480.4,16.84
+MSG000484,CUST00067,2025-08-17,14,Sunday,Promotional,Tier 2,35-44,Android,In-Store,739,1,0,0,0,0,,
+MSG000485,CUST00068,2025-03-14,16,Friday,Feedback Request,Tier 1,35-44,Android,In-Store,755,1,1,0,0,0,39.8,
+MSG000486,CUST00068,2025-03-24,16,Monday,Festive Offer,Tier 1,35-44,Android,In-Store,755,1,1,1,1,0,66.8,2.98
+MSG000487,CUST00068,2025-04-28,13,Monday,Reminder,Tier 1,35-44,Android,In-Store,755,1,1,1,0,0,36.4,0.37
+MSG000488,CUST00068,2025-07-13,9,Sunday,Promotional,Tier 1,35-44,Android,In-Store,755,1,1,0,0,0,56.9,
+MSG000489,CUST00068,2025-07-27,15,Sunday,Promotional,Tier 1,35-44,Android,In-Store,755,1,1,1,0,0,26.1,16.06
+MSG000490,CUST00068,2025-08-06,14,Wednesday,Promotional,Tier 1,35-44,Android,In-Store,755,1,1,1,1,0,71.4,13.39
+MSG000491,CUST00069,2025-03-08,9,Saturday,Feedback Request,Tier 1,25-34,Android,Website Signup,407,1,1,1,1,0,106.1,4.65
+MSG000492,CUST00069,2025-04-10,16,Thursday,Festive Offer,Tier 1,25-34,Android,Website Signup,407,1,1,1,1,0,137.4,3.67
+MSG000493,CUST00069,2025-05-25,12,Sunday,Promotional,Tier 1,25-34,Android,Website Signup,407,1,1,1,1,0,222.5,14.69
+MSG000494,CUST00070,2025-06-06,11,Friday,Reminder,Tier 1,55+,Android,Social Ads,45,1,1,1,0,0,78.2,102.95
+MSG000495,CUST00070,2025-06-11,4,Wednesday,Festive Offer,Tier 1,55+,Android,Social Ads,45,1,1,0,0,0,38.2,
+MSG000496,CUST00070,2025-06-24,12,Tuesday,Promotional,Tier 1,55+,Android,Social Ads,45,1,1,0,0,1,190.0,
+MSG000497,CUST00070,2025-07-26,21,Saturday,Promotional,Tier 1,55+,Android,Social Ads,45,1,1,0,0,0,167.3,
+MSG000498,CUST00070,2025-08-19,6,Tuesday,Feedback Request,Tier 1,55+,Android,Social Ads,45,1,1,0,0,0,195.4,
+MSG000499,CUST00070,2025-08-29,21,Friday,Feedback Request,Tier 1,55+,Android,Social Ads,45,1,0,0,0,0,,
+MSG000500,CUST00071,2025-03-31,8,Monday,Reminder,Tier 1,18-24,Android,In-Store,416,1,1,0,0,0,7.4,
+MSG000501,CUST00071,2025-04-11,19,Friday,Reminder,Tier 1,18-24,Android,In-Store,416,1,1,0,0,0,23.1,
+MSG000502,CUST00071,2025-04-28,12,Monday,Promotional,Tier 1,18-24,Android,In-Store,416,1,1,0,0,0,82.5,
+MSG000503,CUST00071,2025-05-04,13,Sunday,Reminder,Tier 1,18-24,Android,In-Store,416,1,1,1,0,1,54.0,0.76
+MSG000504,CUST00071,2025-05-26,8,Monday,Reminder,Tier 1,18-24,Android,In-Store,416,1,1,0,0,0,239.4,
+MSG000505,CUST00071,2025-06-18,16,Wednesday,Promotional,Tier 1,18-24,Android,In-Store,416,1,0,0,0,0,,
+MSG000506,CUST00071,2025-08-16,14,Saturday,Festive Offer,Tier 1,18-24,Android,In-Store,416,1,1,1,1,0,356.6,3.87
+MSG000507,CUST00071,2025-08-24,6,Sunday,Reminder,Tier 1,18-24,Android,In-Store,416,1,1,1,0,0,155.8,51.44
+MSG000508,CUST00071,2025-08-31,14,Sunday,Transactional,Tier 1,18-24,Android,In-Store,416,1,1,0,0,0,41.9,
+MSG000509,CUST00072,2025-03-20,10,Thursday,Promotional,Tier 1,25-34,Android,Website Signup,189,1,0,0,0,0,,
+MSG000510,CUST00072,2025-03-28,11,Friday,Festive Offer,Tier 1,25-34,Android,Website Signup,189,1,1,1,0,0,88.7,1.94
+MSG000511,CUST00072,2025-04-11,13,Friday,Reminder,Tier 1,25-34,Android,Website Signup,189,1,0,0,0,0,,
+MSG000512,CUST00072,2025-05-04,6,Sunday,Promotional,Tier 1,25-34,Android,Website Signup,189,1,1,0,0,0,39.6,
+MSG000513,CUST00072,2025-05-13,6,Tuesday,Promotional,Tier 1,25-34,Android,Website Signup,189,0,0,0,0,0,,
+MSG000514,CUST00072,2025-05-27,14,Tuesday,Promotional,Tier 1,25-34,Android,Website Signup,189,1,1,0,0,0,66.1,
+MSG000515,CUST00072,2025-05-29,10,Thursday,Transactional,Tier 1,25-34,Android,Website Signup,189,1,1,0,0,0,24.7,
+MSG000516,CUST00072,2025-07-10,16,Thursday,Promotional,Tier 1,25-34,Android,Website Signup,189,1,0,0,0,0,,
+MSG000517,CUST00072,2025-08-16,11,Saturday,Promotional,Tier 1,25-34,Android,Website Signup,189,1,0,0,0,0,,
+MSG000518,CUST00073,2025-03-15,12,Saturday,Transactional,Tier 3,18-24,Android,Website Signup,111,1,1,1,1,0,45.9,1.88
+MSG000519,CUST00073,2025-04-17,15,Thursday,Reminder,Tier 3,18-24,Android,Website Signup,111,0,0,0,0,0,,
+MSG000520,CUST00073,2025-04-28,13,Monday,Feedback Request,Tier 3,18-24,Android,Website Signup,111,1,0,0,0,0,,
+MSG000521,CUST00073,2025-04-29,16,Tuesday,Festive Offer,Tier 3,18-24,Android,Website Signup,111,1,0,0,0,1,,
+MSG000522,CUST00073,2025-04-30,17,Wednesday,Promotional,Tier 3,18-24,Android,Website Signup,111,1,1,0,0,0,105.1,
+MSG000523,CUST00073,2025-07-16,8,Wednesday,Promotional,Tier 3,18-24,Android,Website Signup,111,1,1,0,0,0,33.2,
+MSG000524,CUST00073,2025-08-01,10,Friday,Reminder,Tier 3,18-24,Android,Website Signup,111,1,0,0,0,0,,
+MSG000525,CUST00073,2025-08-19,17,Tuesday,Transactional,Tier 3,18-24,Android,Website Signup,111,1,1,1,1,1,30.7,29.13
+MSG000526,CUST00074,2025-03-10,14,Monday,Feedback Request,Tier 1,45-54,Android,Website Signup,121,1,1,1,1,0,5.9,5.24
+MSG000527,CUST00074,2025-03-14,9,Friday,Promotional,Tier 1,45-54,Android,Website Signup,121,1,1,1,0,0,1.0,1.21
+MSG000528,CUST00074,2025-03-14,12,Friday,Transactional,Tier 1,45-54,Android,Website Signup,121,1,1,0,0,0,28.7,
+MSG000529,CUST00074,2025-03-29,10,Saturday,Promotional,Tier 1,45-54,Android,Website Signup,121,1,1,0,0,0,128.7,
+MSG000530,CUST00074,2025-05-01,14,Thursday,Promotional,Tier 1,45-54,Android,Website Signup,121,1,1,0,0,0,597.4,
+MSG000531,CUST00074,2025-05-23,10,Friday,Reminder,Tier 1,45-54,Android,Website Signup,121,1,0,0,0,0,,
+MSG000532,CUST00074,2025-07-15,12,Tuesday,Promotional,Tier 1,45-54,Android,Website Signup,121,1,1,0,0,0,178.3,
+MSG000533,CUST00074,2025-08-07,13,Thursday,Feedback Request,Tier 1,45-54,Android,Website Signup,121,1,1,0,0,0,102.8,
+MSG000534,CUST00074,2025-08-13,10,Wednesday,Promotional,Tier 1,45-54,Android,Website Signup,121,1,0,0,0,0,,
+MSG000535,CUST00074,2025-08-19,19,Tuesday,Promotional,Tier 1,45-54,Android,Website Signup,121,1,1,0,0,0,452.0,
+MSG000536,CUST00074,2025-08-28,15,Thursday,Festive Offer,Tier 1,45-54,Android,Website Signup,121,1,0,0,0,0,,
+MSG000537,CUST00075,2025-03-18,10,Tuesday,Reminder,Tier 1,18-24,Android,Website Signup,630,1,0,0,0,0,,
+MSG000538,CUST00075,2025-04-18,8,Friday,Promotional,Tier 1,18-24,Android,Website Signup,630,1,1,0,0,0,8.1,
+MSG000539,CUST00075,2025-04-28,15,Monday,Transactional,Tier 1,18-24,Android,Website Signup,630,1,1,0,0,0,28.3,
+MSG000540,CUST00075,2025-07-15,12,Tuesday,Promotional,Tier 1,18-24,Android,Website Signup,630,1,0,0,0,0,,
+MSG000541,CUST00075,2025-08-01,12,Friday,Promotional,Tier 1,18-24,Android,Website Signup,630,1,1,0,0,0,30.6,
+MSG000542,CUST00076,2025-04-13,17,Sunday,Promotional,Tier 1,18-24,Android,Website Signup,459,1,1,0,0,0,406.0,
+MSG000543,CUST00076,2025-04-19,14,Saturday,Promotional,Tier 1,18-24,Android,Website Signup,459,1,1,0,0,0,118.2,
+MSG000544,CUST00076,2025-04-20,21,Sunday,Transactional,Tier 1,18-24,Android,Website Signup,459,1,1,0,0,0,16.3,
+MSG000545,CUST00076,2025-05-02,10,Friday,Feedback Request,Tier 1,18-24,Android,Website Signup,459,1,1,0,0,1,36.9,
+MSG000546,CUST00076,2025-07-01,14,Tuesday,Reminder,Tier 1,18-24,Android,Website Signup,459,1,0,0,0,0,,
+MSG000547,CUST00076,2025-07-11,16,Friday,Festive Offer,Tier 1,18-24,Android,Website Signup,459,1,1,0,0,0,101.0,
+MSG000548,CUST00076,2025-07-31,14,Thursday,Promotional,Tier 1,18-24,Android,Website Signup,459,1,1,0,0,0,441.4,
+MSG000549,CUST00076,2025-08-08,16,Friday,Transactional,Tier 1,18-24,Android,Website Signup,459,1,1,1,1,0,90.6,6.7
+MSG000550,CUST00077,2025-03-30,14,Sunday,Festive Offer,Tier 1,25-34,Android,Social Ads,490,1,1,1,0,0,9.0,0.41
+MSG000551,CUST00077,2025-03-31,13,Monday,Transactional,Tier 1,25-34,Android,Social Ads,490,1,1,1,0,0,14.7,4.61
+MSG000552,CUST00077,2025-05-05,19,Monday,Reminder,Tier 1,25-34,Android,Social Ads,490,1,1,1,1,0,109.5,24.99
+MSG000553,CUST00077,2025-06-02,12,Monday,Promotional,Tier 1,25-34,Android,Social Ads,490,1,1,1,1,0,76.8,5.75
+MSG000554,CUST00077,2025-07-13,13,Sunday,Transactional,Tier 1,25-34,Android,Social Ads,490,1,1,1,1,0,131.1,3.35
+MSG000555,CUST00077,2025-07-18,17,Friday,Promotional,Tier 1,25-34,Android,Social Ads,490,1,1,0,0,0,4.5,
+MSG000556,CUST00078,2025-03-27,10,Thursday,Reminder,Tier 2,55+,Android,Referral,673,1,1,1,1,0,24.8,14.6
+MSG000557,CUST00078,2025-05-25,12,Sunday,Transactional,Tier 2,55+,Android,Referral,673,1,1,0,0,0,174.2,
+MSG000558,CUST00078,2025-06-04,20,Wednesday,Reminder,Tier 2,55+,Android,Referral,673,1,1,1,1,0,58.6,0.18
+MSG000559,CUST00078,2025-07-02,16,Wednesday,Reminder,Tier 2,55+,Android,Referral,673,1,1,1,0,0,11.1,6.78
+MSG000560,CUST00078,2025-08-19,14,Tuesday,Reminder,Tier 2,55+,Android,Referral,673,1,0,0,0,0,,
+MSG000561,CUST00079,2025-04-05,7,Saturday,Reminder,Tier 2,45-54,iOS,Website Signup,497,1,1,1,0,0,214.7,5.36
+MSG000562,CUST00079,2025-05-21,17,Wednesday,Promotional,Tier 2,45-54,iOS,Website Signup,497,1,0,0,0,0,,
+MSG000563,CUST00079,2025-05-28,17,Wednesday,Promotional,Tier 2,45-54,iOS,Website Signup,497,1,0,0,0,0,,
+MSG000564,CUST00080,2025-03-03,16,Monday,Reminder,Tier 2,35-44,iOS,In-Store,570,1,0,0,0,0,,
+MSG000565,CUST00080,2025-05-20,8,Tuesday,Promotional,Tier 2,35-44,iOS,In-Store,570,1,0,0,0,0,,
+MSG000566,CUST00080,2025-06-19,10,Thursday,Promotional,Tier 2,35-44,iOS,In-Store,570,1,0,0,0,0,,
+MSG000567,CUST00080,2025-06-19,14,Thursday,Promotional,Tier 2,35-44,iOS,In-Store,570,1,0,0,0,0,,
+MSG000568,CUST00081,2025-03-04,12,Tuesday,Promotional,Tier 2,45-54,Android,Referral,86,1,0,0,0,0,,
+MSG000569,CUST00081,2025-03-12,13,Wednesday,Reminder,Tier 2,45-54,Android,Referral,86,1,0,0,0,0,,
+MSG000570,CUST00081,2025-03-28,15,Friday,Reminder,Tier 2,45-54,Android,Referral,86,1,0,0,0,0,,
+MSG000571,CUST00081,2025-04-05,12,Saturday,Reminder,Tier 2,45-54,Android,Referral,86,1,0,0,0,0,,
+MSG000572,CUST00081,2025-05-03,18,Saturday,Reminder,Tier 2,45-54,Android,Referral,86,1,0,0,0,0,,
+MSG000573,CUST00081,2025-06-01,11,Sunday,Reminder,Tier 2,45-54,Android,Referral,86,1,1,1,0,0,290.7,27.16
+MSG000574,CUST00081,2025-06-13,18,Friday,Reminder,Tier 2,45-54,Android,Referral,86,1,0,0,0,1,,
+MSG000575,CUST00081,2025-07-05,10,Saturday,Transactional,Tier 2,45-54,Android,Referral,86,1,1,0,0,0,328.4,
+MSG000576,CUST00081,2025-07-28,15,Monday,Promotional,Tier 2,45-54,Android,Referral,86,1,0,0,0,1,,
+MSG000577,CUST00081,2025-08-09,10,Saturday,Promotional,Tier 2,45-54,Android,Referral,86,1,1,0,0,0,74.7,
+MSG000578,CUST00082,2025-03-10,11,Monday,Transactional,Tier 1,45-54,Android,Social Ads,767,1,0,0,0,0,,
+MSG000579,CUST00082,2025-04-11,15,Friday,Promotional,Tier 1,45-54,Android,Social Ads,767,1,1,0,0,1,207.8,
+MSG000580,CUST00082,2025-04-19,12,Saturday,Reminder,Tier 1,45-54,Android,Social Ads,767,1,1,0,0,0,309.7,
+MSG000581,CUST00082,2025-05-09,4,Friday,Reminder,Tier 1,45-54,Android,Social Ads,767,1,0,0,0,0,,
+MSG000582,CUST00082,2025-06-15,8,Sunday,Promotional,Tier 1,45-54,Android,Social Ads,767,1,0,0,0,0,,
+MSG000583,CUST00082,2025-06-23,8,Monday,Promotional,Tier 1,45-54,Android,Social Ads,767,1,1,0,0,0,16.0,
+MSG000584,CUST00082,2025-06-24,14,Tuesday,Reminder,Tier 1,45-54,Android,Social Ads,767,1,0,0,0,0,,
+MSG000585,CUST00082,2025-07-20,14,Sunday,Promotional,Tier 1,45-54,Android,Social Ads,767,1,0,0,0,0,,
+MSG000586,CUST00082,2025-07-23,12,Wednesday,Promotional,Tier 1,45-54,Android,Social Ads,767,1,0,0,0,0,,
+MSG000587,CUST00082,2025-07-30,17,Wednesday,Promotional,Tier 1,45-54,Android,Social Ads,767,1,0,0,0,0,,
+MSG000588,CUST00082,2025-07-30,14,Wednesday,Promotional,Tier 1,45-54,Android,Social Ads,767,0,0,0,0,0,,
+MSG000589,CUST00083,2025-03-19,10,Wednesday,Festive Offer,Tier 3,25-34,Android,In-Store,409,1,0,0,0,0,,
+MSG000590,CUST00083,2025-03-24,16,Monday,Reminder,Tier 3,25-34,Android,In-Store,409,1,1,0,0,0,75.9,
+MSG000591,CUST00083,2025-08-27,19,Wednesday,Promotional,Tier 3,25-34,Android,In-Store,409,1,0,0,0,0,,
+MSG000592,CUST00084,2025-03-06,13,Thursday,Festive Offer,Tier 1,25-34,Android,Referral,148,1,1,0,0,0,53.2,
+MSG000593,CUST00084,2025-04-13,12,Sunday,Promotional,Tier 1,25-34,Android,Referral,148,1,1,1,1,1,177.3,0.7
+MSG000594,CUST00084,2025-06-26,14,Thursday,Promotional,Tier 1,25-34,Android,Referral,148,1,1,1,0,0,278.5,69.85
+MSG000595,CUST00084,2025-07-11,14,Friday,Promotional,Tier 1,25-34,Android,Referral,148,1,0,0,0,0,,
+MSG000596,CUST00085,2025-03-17,6,Monday,Transactional,Tier 1,35-44,Android,Website Signup,733,1,0,0,0,0,,
+MSG000597,CUST00085,2025-05-10,16,Saturday,Festive Offer,Tier 1,35-44,Android,Website Signup,733,1,1,0,0,0,67.7,
+MSG000598,CUST00085,2025-07-12,14,Saturday,Reminder,Tier 1,35-44,Android,Website Signup,733,1,1,0,0,0,68.4,
+MSG000599,CUST00085,2025-08-06,10,Wednesday,Reminder,Tier 1,35-44,Android,Website Signup,733,1,1,1,0,0,8.6,50.93
+MSG000600,CUST00085,2025-08-08,16,Friday,Festive Offer,Tier 1,35-44,Android,Website Signup,733,1,1,0,0,0,178.8,
+MSG000601,CUST00085,2025-08-31,18,Sunday,Promotional,Tier 1,35-44,Android,Website Signup,733,1,1,0,0,0,85.9,
+MSG000602,CUST00086,2025-03-18,17,Tuesday,Reminder,Tier 1,35-44,Android,Social Ads,663,1,1,0,0,0,23.1,
+MSG000603,CUST00086,2025-04-12,9,Saturday,Festive Offer,Tier 1,35-44,Android,Social Ads,663,1,0,0,0,0,,
+MSG000604,CUST00086,2025-04-24,12,Thursday,Festive Offer,Tier 1,35-44,Android,Social Ads,663,1,0,0,0,0,,
+MSG000605,CUST00086,2025-05-01,16,Thursday,Reminder,Tier 1,35-44,Android,Social Ads,663,1,1,0,0,0,14.0,
+MSG000606,CUST00086,2025-05-01,7,Thursday,Promotional,Tier 1,35-44,Android,Social Ads,663,1,1,1,1,0,48.0,7.76
+MSG000607,CUST00086,2025-06-10,17,Tuesday,Transactional,Tier 1,35-44,Android,Social Ads,663,1,1,1,0,0,8.0,12.96
+MSG000608,CUST00086,2025-06-23,12,Monday,Promotional,Tier 1,35-44,Android,Social Ads,663,1,1,0,0,0,144.0,
+MSG000609,CUST00086,2025-06-29,12,Sunday,Festive Offer,Tier 1,35-44,Android,Social Ads,663,1,0,0,0,0,,
+MSG000610,CUST00086,2025-07-30,20,Wednesday,Promotional,Tier 1,35-44,Android,Social Ads,663,1,0,0,0,0,,
+MSG000611,CUST00086,2025-08-08,13,Friday,Festive Offer,Tier 1,35-44,Android,Social Ads,663,1,1,1,1,0,144.3,20.2
+MSG000612,CUST00086,2025-08-10,10,Sunday,Reminder,Tier 1,35-44,Android,Social Ads,663,1,1,1,1,0,79.1,18.58
+MSG000613,CUST00086,2025-08-15,18,Friday,Promotional,Tier 1,35-44,Android,Social Ads,663,1,1,1,1,0,140.5,6.84
+MSG000614,CUST00087,2025-03-04,7,Tuesday,Reminder,Tier 2,25-34,Android,In-Store,57,1,1,1,1,0,240.3,9.25
+MSG000615,CUST00087,2025-04-14,14,Monday,Transactional,Tier 2,25-34,Android,In-Store,57,1,0,0,0,1,,
+MSG000616,CUST00087,2025-05-12,11,Monday,Transactional,Tier 2,25-34,Android,In-Store,57,1,0,0,0,0,,
+MSG000617,CUST00087,2025-06-10,12,Tuesday,Promotional,Tier 2,25-34,Android,In-Store,57,1,0,0,0,0,,
+MSG000618,CUST00087,2025-06-13,10,Friday,Festive Offer,Tier 2,25-34,Android,In-Store,57,1,1,0,0,0,5.6,
+MSG000619,CUST00088,2025-04-10,10,Thursday,Promotional,Tier 2,18-24,Android,Social Ads,181,1,0,0,0,0,,
+MSG000620,CUST00088,2025-07-03,16,Thursday,Promotional,Tier 2,18-24,Android,Social Ads,181,1,0,0,0,0,,
+MSG000621,CUST00088,2025-07-04,15,Friday,Transactional,Tier 2,18-24,Android,Social Ads,181,0,0,0,0,0,,
+MSG000622,CUST00088,2025-08-26,16,Tuesday,Feedback Request,Tier 2,18-24,Android,Social Ads,181,1,0,0,0,0,,
+MSG000623,CUST00089,2025-03-14,6,Friday,Promotional,Tier 1,35-44,Android,Website Signup,24,1,0,0,0,0,,
+MSG000624,CUST00089,2025-03-22,22,Saturday,Festive Offer,Tier 1,35-44,Android,Website Signup,24,1,1,1,0,0,21.1,33.31
+MSG000625,CUST00089,2025-03-29,11,Saturday,Feedback Request,Tier 1,35-44,Android,Website Signup,24,1,0,0,0,0,,
+MSG000626,CUST00089,2025-05-05,20,Monday,Promotional,Tier 1,35-44,Android,Website Signup,24,1,1,1,0,0,167.8,0.55
+MSG000627,CUST00089,2025-05-23,15,Friday,Feedback Request,Tier 1,35-44,Android,Website Signup,24,1,1,0,0,0,1.0,
+MSG000628,CUST00089,2025-06-02,12,Monday,Reminder,Tier 1,35-44,Android,Website Signup,24,1,1,0,0,0,110.9,
+MSG000629,CUST00089,2025-06-11,19,Wednesday,Festive Offer,Tier 1,35-44,Android,Website Signup,24,1,1,0,0,0,11.4,
+MSG000630,CUST00089,2025-06-13,14,Friday,Reminder,Tier 1,35-44,Android,Website Signup,24,1,1,0,0,0,116.7,
+MSG000631,CUST00089,2025-06-18,12,Wednesday,Promotional,Tier 1,35-44,Android,Website Signup,24,1,1,0,0,0,20.0,
+MSG000632,CUST00089,2025-07-29,6,Tuesday,Reminder,Tier 1,35-44,Android,Website Signup,24,1,1,0,0,0,3.5,
+MSG000633,CUST00090,2025-03-07,1,Friday,Promotional,Tier 2,18-24,Android,Social Ads,250,0,0,0,0,0,,
+MSG000634,CUST00090,2025-03-18,10,Tuesday,Transactional,Tier 2,18-24,Android,Social Ads,250,1,1,1,0,0,134.6,19.74
+MSG000635,CUST00090,2025-03-21,19,Friday,Feedback Request,Tier 2,18-24,Android,Social Ads,250,1,0,0,0,1,,
+MSG000636,CUST00090,2025-04-14,13,Monday,Transactional,Tier 2,18-24,Android,Social Ads,250,1,0,0,0,0,,
+MSG000637,CUST00090,2025-05-04,18,Sunday,Promotional,Tier 2,18-24,Android,Social Ads,250,1,1,0,0,1,419.6,
+MSG000638,CUST00090,2025-05-30,12,Friday,Promotional,Tier 2,18-24,Android,Social Ads,250,1,1,0,0,0,70.0,
+MSG000639,CUST00090,2025-06-04,4,Wednesday,Promotional,Tier 2,18-24,Android,Social Ads,250,1,1,0,0,0,103.5,
+MSG000640,CUST00090,2025-07-04,13,Friday,Promotional,Tier 2,18-24,Android,Social Ads,250,1,0,0,0,0,,
+MSG000641,CUST00090,2025-07-05,1,Saturday,Feedback Request,Tier 2,18-24,Android,Social Ads,250,1,1,0,0,0,26.9,
+MSG000642,CUST00090,2025-07-13,16,Sunday,Transactional,Tier 2,18-24,Android,Social Ads,250,1,0,0,0,0,,
+MSG000643,CUST00090,2025-07-26,17,Saturday,Promotional,Tier 2,18-24,Android,Social Ads,250,1,0,0,0,0,,
+MSG000644,CUST00090,2025-08-04,15,Monday,Promotional,Tier 2,18-24,Android,Social Ads,250,1,0,0,0,0,,
+MSG000645,CUST00091,2025-04-11,19,Friday,Festive Offer,Tier 1,45-54,iOS,Referral,98,1,1,0,0,0,75.4,
+MSG000646,CUST00091,2025-05-18,16,Sunday,Promotional,Tier 1,45-54,iOS,Referral,98,1,1,0,0,0,25.3,
+MSG000647,CUST00091,2025-07-23,10,Wednesday,Promotional,Tier 1,45-54,iOS,Referral,98,1,1,1,0,0,44.0,2.31
+MSG000648,CUST00092,2025-03-06,14,Thursday,Promotional,Tier 2,18-24,Android,Website Signup,641,1,1,1,0,0,180.3,9.94
+MSG000649,CUST00092,2025-03-15,14,Saturday,Reminder,Tier 2,18-24,Android,Website Signup,641,1,1,1,0,0,132.5,10.5
+MSG000650,CUST00092,2025-03-27,8,Thursday,Festive Offer,Tier 2,18-24,Android,Website Signup,641,1,1,0,0,0,117.2,
+MSG000651,CUST00092,2025-03-28,7,Friday,Reminder,Tier 2,18-24,Android,Website Signup,641,1,1,0,0,0,24.0,
+MSG000652,CUST00092,2025-04-23,12,Wednesday,Reminder,Tier 2,18-24,Android,Website Signup,641,1,1,0,0,0,104.3,
+MSG000653,CUST00092,2025-04-23,22,Wednesday,Reminder,Tier 2,18-24,Android,Website Signup,641,1,0,0,0,0,,
+MSG000654,CUST00092,2025-05-11,10,Sunday,Promotional,Tier 2,18-24,Android,Website Signup,641,1,1,1,0,0,65.4,1.02
+MSG000655,CUST00092,2025-05-12,11,Monday,Reminder,Tier 2,18-24,Android,Website Signup,641,1,1,0,0,1,189.8,
+MSG000656,CUST00092,2025-07-03,12,Thursday,Festive Offer,Tier 2,18-24,Android,Website Signup,641,1,0,0,0,0,,
+MSG000657,CUST00092,2025-08-03,8,Sunday,Reminder,Tier 2,18-24,Android,Website Signup,641,0,0,0,0,0,,
+MSG000658,CUST00092,2025-08-03,19,Sunday,Festive Offer,Tier 2,18-24,Android,Website Signup,641,0,0,0,0,0,,
+MSG000659,CUST00092,2025-08-18,16,Monday,Promotional,Tier 2,18-24,Android,Website Signup,641,1,1,1,0,0,224.7,6.69
+MSG000660,CUST00093,2025-03-15,6,Saturday,Promotional,Tier 1,18-24,iOS,Referral,475,1,0,0,0,0,,
+MSG000661,CUST00093,2025-03-17,13,Monday,Reminder,Tier 1,18-24,iOS,Referral,475,1,1,1,0,0,63.3,6.19
+MSG000662,CUST00093,2025-05-22,11,Thursday,Reminder,Tier 1,18-24,iOS,Referral,475,1,1,0,0,0,24.6,
+MSG000663,CUST00093,2025-07-06,2,Sunday,Reminder,Tier 1,18-24,iOS,Referral,475,1,1,1,0,0,58.9,39.03
+MSG000664,CUST00093,2025-07-11,19,Friday,Festive Offer,Tier 1,18-24,iOS,Referral,475,1,0,0,0,0,,
+MSG000665,CUST00093,2025-08-03,15,Sunday,Transactional,Tier 1,18-24,iOS,Referral,475,1,0,0,0,0,,
+MSG000666,CUST00094,2025-03-19,13,Wednesday,Promotional,Tier 1,35-44,Android,In-Store,882,1,0,0,0,0,,
+MSG000667,CUST00094,2025-04-20,17,Sunday,Transactional,Tier 1,35-44,Android,In-Store,882,1,1,0,0,0,5.9,
+MSG000668,CUST00094,2025-04-30,16,Wednesday,Promotional,Tier 1,35-44,Android,In-Store,882,1,1,0,0,0,66.3,
+MSG000669,CUST00094,2025-05-04,13,Sunday,Reminder,Tier 1,35-44,Android,In-Store,882,1,1,0,0,0,24.8,
+MSG000670,CUST00094,2025-05-17,13,Saturday,Promotional,Tier 1,35-44,Android,In-Store,882,1,1,0,0,0,202.2,
+MSG000671,CUST00094,2025-05-31,8,Saturday,Reminder,Tier 1,35-44,Android,In-Store,882,1,1,1,0,0,23.1,16.0
+MSG000672,CUST00094,2025-06-02,20,Monday,Reminder,Tier 1,35-44,Android,In-Store,882,1,1,1,1,0,88.4,1.82
+MSG000673,CUST00094,2025-07-22,8,Tuesday,Festive Offer,Tier 1,35-44,Android,In-Store,882,1,1,1,1,0,155.4,1.32
+MSG000674,CUST00094,2025-08-01,12,Friday,Transactional,Tier 1,35-44,Android,In-Store,882,1,1,1,1,0,138.4,3.62
+MSG000675,CUST00094,2025-08-10,16,Sunday,Festive Offer,Tier 1,35-44,Android,In-Store,882,0,0,0,0,0,,
+MSG000676,CUST00094,2025-08-21,15,Thursday,Festive Offer,Tier 1,35-44,Android,In-Store,882,1,1,1,1,0,71.4,8.8
+MSG000677,CUST00095,2025-04-18,7,Friday,Transactional,Tier 1,18-24,iOS,Website Signup,676,1,1,0,0,0,26.7,
+MSG000678,CUST00095,2025-04-20,16,Sunday,Reminder,Tier 1,18-24,iOS,Website Signup,676,1,1,0,0,0,154.5,
+MSG000679,CUST00095,2025-05-20,13,Tuesday,Promotional,Tier 1,18-24,iOS,Website Signup,676,1,1,1,0,0,250.0,26.5
+MSG000680,CUST00095,2025-05-30,13,Friday,Festive Offer,Tier 1,18-24,iOS,Website Signup,676,1,0,0,0,0,,
+MSG000681,CUST00095,2025-07-01,17,Tuesday,Reminder,Tier 1,18-24,iOS,Website Signup,676,1,1,1,0,0,48.2,4.08
+MSG000682,CUST00095,2025-08-17,18,Sunday,Promotional,Tier 1,18-24,iOS,Website Signup,676,1,1,1,0,0,227.8,6.06
+MSG000683,CUST00095,2025-08-29,15,Friday,Promotional,Tier 1,18-24,iOS,Website Signup,676,1,1,0,0,0,33.7,
+MSG000684,CUST00096,2025-03-09,20,Sunday,Promotional,Tier 2,18-24,iOS,Referral,554,1,1,0,0,0,86.0,
+MSG000685,CUST00096,2025-03-12,19,Wednesday,Promotional,Tier 2,18-24,iOS,Referral,554,1,1,0,0,0,41.8,
+MSG000686,CUST00096,2025-04-10,15,Thursday,Promotional,Tier 2,18-24,iOS,Referral,554,1,0,0,0,1,,
+MSG000687,CUST00096,2025-04-14,8,Monday,Reminder,Tier 2,18-24,iOS,Referral,554,1,1,1,1,0,137.7,4.87
+MSG000688,CUST00096,2025-04-25,12,Friday,Promotional,Tier 2,18-24,iOS,Referral,554,1,1,0,0,0,5.6,
+MSG000689,CUST00096,2025-05-02,9,Friday,Reminder,Tier 2,18-24,iOS,Referral,554,1,0,0,0,0,,
+MSG000690,CUST00096,2025-05-05,12,Monday,Reminder,Tier 2,18-24,iOS,Referral,554,1,1,0,0,0,90.3,
+MSG000691,CUST00096,2025-05-22,6,Thursday,Feedback Request,Tier 2,18-24,iOS,Referral,554,1,1,1,0,0,105.3,0.05
+MSG000692,CUST00096,2025-08-14,12,Thursday,Reminder,Tier 2,18-24,iOS,Referral,554,1,0,0,0,0,,
+MSG000693,CUST00096,2025-08-26,17,Tuesday,Promotional,Tier 2,18-24,iOS,Referral,554,1,1,1,1,0,1.6,8.92
+MSG000694,CUST00097,2025-03-20,15,Thursday,Promotional,Tier 1,25-34,iOS,Social Ads,463,1,1,1,1,0,482.1,36.04
+MSG000695,CUST00097,2025-06-21,16,Saturday,Festive Offer,Tier 1,25-34,iOS,Social Ads,463,1,1,1,0,0,1.0,0.07
+MSG000696,CUST00097,2025-08-07,18,Thursday,Reminder,Tier 1,25-34,iOS,Social Ads,463,1,1,0,0,0,300.5,
+MSG000697,CUST00098,2025-03-23,13,Sunday,Transactional,Tier 1,45-54,iOS,Website Signup,58,1,1,1,1,0,51.7,0.79
+MSG000698,CUST00098,2025-04-18,11,Friday,Promotional,Tier 1,45-54,iOS,Website Signup,58,1,1,1,0,0,30.7,13.61
+MSG000699,CUST00098,2025-04-30,8,Wednesday,Transactional,Tier 1,45-54,iOS,Website Signup,58,1,0,0,0,0,,
+MSG000700,CUST00098,2025-05-30,14,Friday,Festive Offer,Tier 1,45-54,iOS,Website Signup,58,1,0,0,0,0,,
+MSG000701,CUST00098,2025-07-08,13,Tuesday,Promotional,Tier 1,45-54,iOS,Website Signup,58,1,1,0,0,1,61.7,
+MSG000702,CUST00098,2025-07-25,14,Friday,Transactional,Tier 1,45-54,iOS,Website Signup,58,1,0,0,0,0,,
+MSG000703,CUST00098,2025-08-18,14,Monday,Transactional,Tier 1,45-54,iOS,Website Signup,58,1,1,1,0,0,86.4,27.97
+MSG000704,CUST00099,2025-04-21,11,Monday,Promotional,Tier 1,18-24,Android,Referral,72,1,0,0,0,0,,
+MSG000705,CUST00099,2025-05-03,8,Saturday,Promotional,Tier 1,18-24,Android,Referral,72,1,0,0,0,0,,
+MSG000706,CUST00099,2025-07-12,15,Saturday,Promotional,Tier 1,18-24,Android,Referral,72,1,0,0,0,0,,
+MSG000707,CUST00100,2025-05-14,11,Wednesday,Transactional,Tier 3,25-34,Android,Referral,558,1,1,1,1,0,28.1,0.24
+MSG000708,CUST00100,2025-06-05,14,Thursday,Reminder,Tier 3,25-34,Android,Referral,558,1,0,0,0,0,,
+MSG000709,CUST00100,2025-06-24,11,Tuesday,Feedback Request,Tier 3,25-34,Android,Referral,558,1,1,1,1,0,68.8,0.35
+MSG000710,CUST00100,2025-07-15,6,Tuesday,Promotional,Tier 3,25-34,Android,Referral,558,1,1,1,0,0,1.8,25.0
+MSG000711,CUST00100,2025-08-02,10,Saturday,Promotional,Tier 3,25-34,Android,Referral,558,1,1,0,0,0,5.2,
+MSG000712,CUST00100,2025-08-02,12,Saturday,Reminder,Tier 3,25-34,Android,Referral,558,1,1,1,0,0,90.2,2.98
